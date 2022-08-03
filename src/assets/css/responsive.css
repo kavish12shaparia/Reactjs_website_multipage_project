@@ -1,0 +1,3083 @@
+@media only screen and (max-width: 801px){
+  /*---------------------------------------- blog section ---------------------------------------------*/
+.blog {
+  height: 150vh;
+}
+#blogp{
+  border-radius: 25px; 
+  height: 150px; 
+  width: 150px; 
+}
+.blog #user1{
+  font-size: 1.5rem;
+}
+.blog #post1{
+  font-size: 1.2rem;
+}
+.blog h4{
+  font-size: 2.4rem;
+}
+.blog h2{
+  font-size: 3rem;
+  font-weight: 700;
+}
+.blog p{
+  font-size: 1.2rem;
+}
+/*---------------------------------------- recent post section ---------------------------------------------*/
+.recent_post {
+  height:100vh;
+}
+.recent_post h1{
+  font-size: 5rem;
+}
+.recent_post #blogp{
+  border-radius: 25px; 
+  height: 90px; 
+  width: 90px; 
+}
+.recent_post #lorem11{
+  font-size: 1.5rem;
+  font-weight:700;
+}
+}
+
+
+
+
+@media only screen and (max-width: 769px){
+/*---------------------------------------- blog section ---------------------------------------------*/
+.blog {
+  height: 200vh;
+}
+#blogp{
+  border-radius: 25px; 
+  height: 150px; 
+  width: 150px; 
+}
+.blog #user1{
+  font-size: 1.5rem;
+}
+.blog #post1{
+  font-size: 1.2rem;
+}
+.blog h4{
+  font-size: 2.4rem;
+}
+.blog h2{
+  font-size: 3rem;
+  font-weight: 700;
+}
+.blog p{
+  font-size: 1.2rem;
+}
+/*---------------------------------------- recent post section ---------------------------------------------*/
+.recent_post {
+  height:100vh;
+}
+.recent_post h1{
+  font-size: 5rem;
+}
+.recent_post #blogp{
+  border-radius: 25px; 
+  height: 90px; 
+  width: 90px; 
+}
+.recent_post #lorem11{
+  font-size: 1.5rem;
+  font-weight:700;
+}
+}
+
+
+
+
+@media only screen and (max-width: 713px){
+  /*---------------------------------------- portfolio page ---------------------------------------------*/
+/*---------------------------------------- hero section7 page ---------------------------------------------*/
+.hero-section7 h5 {
+  font-size: 2.5rem;
+}
+.hero-section7 h1 {
+  font-size: 5rem;
+}
+
+/*---------------------------------------- portfolio section ---------------------------------------------*/
+.portfolio1 .title4{
+  font-size: 5rem;
+}
+.portfolio1 .titlecap4{
+  font-size: 2rem;
+}
+.portfolio1 #avatar99{
+  height: 120px;
+  width: 150px;
+}
+.portfolio1 #ispum{
+  font-size:medium;
+}
+.portfolio1 .entry1{
+  font-size: 2rem;
+}
+
+/*---------------------------------------- pricing section ---------------------------------------------*/
+.pricing h1{
+  font-size: 5rem;
+}
+.pricing #titlecaption{
+  font-size: 2.5rem;
+}
+.pricing .box h3 {
+  padding: 15px;
+  font-size: 18px;
+}
+.pricing .box h4 {
+  font-size: 42px;
+}
+.pricing .box h4 sup {
+  font-size: 20px;
+}
+.pricing .box h4 span {
+  font-size: 16px;
+}
+.pricing .box ul {
+  font-size: 14px;
+}
+.pricing .box ul i {
+  font-size: 18px;
+}
+.pricing .box .btn-buy {
+  font-size: 14px;
+}
+}
+
+
+
+@media only screen and (max-width: 600px) {
+/*---------------------------------------- hero section2 ---------------------------------------------*/
+.hero-section2 h5 {
+  font-size: 2.5rem;
+}
+.hero-section2 h1 {
+  font-size: 5rem;
+}
+
+/*---------------------------------------- information section ---------------------------------------------*/
+.info h4{
+  font-size: 3rem;
+}
+.info h4:hover{
+  color: gold;
+}
+
+/*---------------------------------------- story section ---------------------------------------------*/
+.story .titlex{
+  font-size: 5rem;
+}
+.story .titlecapx{
+  font-size: 2rem;
+}
+.story #acc-head{
+  font-size: 2.5rem;
+}
+.accordion-body #acc-text{
+  font-size: 2rem;
+}
+
+/*---------------------------------------- Our team section ---------------------------------------------*/
+.title1x{
+  font-size: 5rem;
+}
+.ourteam .titlecap1x{
+  font-size: 2rem;
+}
+.ourteam #teamx{
+  height: 350px;
+  width: 250px;
+  border-radius: 25px;
+}
+.ourteam #avatarxx{
+  border-radius: 50%; 
+  height: 100px; 
+  width: 100px; 
+}
+.ourteam h4{
+  font-size: 2rem;
+}
+.ourteam h6{
+  font-size: 1.5rem;
+}
+.ourteam #wor{
+  padding: 3%;
+}
+
+/*---------------------------------------- vision section ---------------------------------------------*/
+.visionx .title11x{
+  font-size: 5rem;
+}
+.visionx .titlecap11x{
+  font-size: 2rem;
+}
+.cardx{
+  border-width: 3px;
+  height: 300px;
+}
+#imgx{
+  border-radius: 50%; 
+  height: 150px; 
+  width: 150px; 
+}
+.visionx h2{
+  font-size: 2rem;
+}
+.visionx h4{
+  font-size: 1.4rem;
+}
+
+/*---------------------------------------- aquainted section ---------------------------------------------*/
+.hero-section21 #title2x{
+  font-size: 5rem;
+}
+.hero-section21 #titlecap2x{
+  font-size: 2.4rem;
+}
+.herosection21 h5{
+  font-size: 2rem;
+}
+.hero-section21 #buttonsub2x{
+  width: 200px;
+  height: 40px;
+}
+
+/*---------------------------------------- hero section3 pages ---------------------------------------------*/
+.hero-section3 h5 {
+  font-size: 2rem;
+}
+.hero-section3 h1 {
+  font-size: 5rem;
+}
+
+/*---------------------------------------- details section ---------------------------------------------*/
+.details h2{
+  font-size: 4rem;
+}
+.details h4{
+  font-size: 2rem;
+
+}
+.details h5{
+  font-size: 1rem;
+}
+
+/*---------------------------------------- hero section4 pages ---------------------------------------------*/
+.hero-section4 h2 {
+  font-size: 2.5rem;
+}
+.hero-section4 h1 {
+  font-size: 5rem;
+}
+.hero-section4 #team2x{
+    height: 375px;
+    width: 275px;
+    border-radius: 25px;
+}
+
+/*---------------------------------------- doit section ---------------------------------------------*/
+.doit h4 {
+  font-size: 2rem;
+}
+.doit h1 {
+  font-size: 5rem;
+}
+
+/*---------------------------------------- engage section ---------------------------------------------*/
+.engage h1 {
+  font-size: 5rem;
+}
+.engage p {
+  font-size: 2rem;
+}
+.engage h3 {
+  font-size: 2.5rem;
+}
+.engage h5 {
+  font-size: 2rem;
+}
+.engage h4{
+  font-size: 2.5rem;
+}
+
+/*---------------------------------------- hero section5 pages ---------------------------------------------*/
+.hero-section5 h5 {
+  font-size: 2rem;
+}
+.hero-section5 h1 {
+  font-size: 5rem;
+}
+
+/*---------------------------------------- Testim section ---------------------------------------------*/
+.testim #lorem1{
+  font-size: small;
+}
+.testim #user1{
+  font-size: small;
+}
+.testim #post1{
+  font-size: small;
+}
+#avatar888{
+  border-radius: 50%; 
+  height: 60px; 
+  width: 60px; 
+}
+/*---------------------------------------- blog section ---------------------------------------------*/
+.blog {
+  height: 180vh;
+}
+#blogp{
+  border-radius: 25px; 
+  height: 150px; 
+  width: 150px; 
+}
+.blog #user1{
+  font-size: 1rem;
+}
+.blog #post1{
+  font-size: 1rem;
+}
+.blog h4{
+  font-size: 2rem;
+}
+.blog h2{
+  font-size: 2.5rem;
+  font-weight: 700;
+}
+.blog p{
+  font-size: 1rem;
+}
+/*---------------------------------------- recent post section ---------------------------------------------*/
+.recent_post {
+  height:120vh;
+}
+.recent_post h1{
+  font-size: 5rem;
+}
+.recent_post #blogp{
+  border-radius: 25px; 
+  height: 90px; 
+  width: 90px; 
+}
+.recent_post #lorem11{
+  font-size: 1.1rem;
+  font-weight:700;
+}
+
+/*---------------------------------------- hero section7 page ---------------------------------------------*/
+.hero-section7 h5 {
+  font-size: 2.5rem;
+}
+.hero-section7 h1 {
+  font-size: 5rem;
+}
+
+/*---------------------------------------- portfolio section ---------------------------------------------*/
+.portfolio1 .title4{
+  font-size: 5rem;
+}
+.portfolio1 .titlecap4{
+  font-size: 2rem;
+}
+.portfolio1 #avatar99{
+  height: 120px;
+  width: 150px;
+}
+.portfolio1 #ispum{
+  font-size:medium;
+}
+.portfolio1 .entry1{
+  font-size: 2rem;
+}
+
+/*---------------------------------------- pricing section ---------------------------------------------*/
+.pricing h1{
+  font-size: 5rem;
+}
+.pricing #titlecaption{
+  font-size: 2.5rem;
+}
+.pricing .box h3 {
+  padding: 15px;
+  font-size: 18px;
+}
+.pricing .box h4 {
+  font-size: 42px;
+}
+.pricing .box h4 sup {
+  font-size: 20px;
+}
+.pricing .box h4 span {
+  font-size: 16px;
+}
+.pricing .box ul {
+  font-size: 14px;
+}
+.pricing .box ul i {
+  font-size: 18px;
+}
+.pricing .box .btn-buy {
+  font-size: 14px;
+}
+}
+
+
+
+
+@media only screen and (max-width: 551px) {
+  /*---------------------------------------- hero section ---------------------------------------------*/
+      .hero-section h1 {
+        font-size: 3.8rem;
+      }
+}
+
+
+
+@media only screen and (max-width:540px){
+/*---------------------------------------- hero1 section ---------------------------------------------*/
+  .hero-section1 h1 {
+    font-size: 3.5rem;
+  }
+
+/*---------------------------------------- services section ---------------------------------------------*/
+  .title1{
+    font-size: 3.5rem;
+  }
+  .services .titlecap{
+    font-size: 1rem;
+  }
+  #img1{
+    border-radius: 50%; 
+    height: 60px; 
+    width: 60px; 
+  }
+  .cardser{
+    border-radius: 25px;
+    height: 250px;
+    padding-top: 10%;
+  }
+
+ /*---------------------------------------- skills section ---------------------------------------------*/
+ .title2{
+  font-size: 3.5rem;
+}
+.team .titlecap2{
+  font-size: 1rem;
+}
+#avatar{
+  border-radius: 50%; 
+  height: 50px; 
+  width: 50px; 
+}
+.card1{
+  border-radius: 25px;
+  height: 250px;
+}
+.team h4{
+  font-size: medium;
+}
+.team h6{
+
+  font-size: smaller;
+}
+.team p{
+  font-size: smaller;
+}
+
+/*---------------------------------------- skills section ---------------------------------------------*/
+  .title3{
+    font-size: 3.5rem;
+  }
+  .skills .titlecap3{
+    font-size: 1rem;
+  }
+  #avatar1{
+    border-radius: 50%; 
+    height: 100px; 
+    width: 100px; 
+  }
+  .card2{
+    border-radius: 25px;
+    height: 150px;
+    padding-top: 20%;
+  }
+  .skills #value{
+    font-size:small;
+  }
+
+/*---------------------------------------- portfolio section ---------------------------------------------*/
+  .title4{
+    font-size: 3.5rem;
+  }
+  .portfolio .titlecap4{
+    font-size: 1rem;
+  }
+  #avatar99{
+    height: 100px;
+    width: 150px;
+  }
+  .portfolio #ispum{
+    font-size:medium;
+  }
+
+/*---------------------------------------- testimonals section ---------------------------------------------*/
+.title5{
+  font-size: 3.5rem;
+}
+.testimonals .titlecap5{
+  font-size: 1rem;
+}
+.testimonals #lorem{
+  font-size: smaller;
+}
+.testimonals #user{
+  font-size: smaller;
+}
+.testimonals #post{
+  font-size: smaller;
+}
+#avatar88{
+  border-radius: 50%; 
+  height: 50px; 
+  width: 50px; 
+}
+
+/*---------------------------------------- subscribe section ---------------------------------------------*/
+.title6{
+  font-size: 3.5rem;
+}
+.subscribe .titlecap6{
+  font-size: 1rem;
+}
+.subscribe #buttonsub{
+  width: 300px;
+  height: 30px;
+}
+.subscribe #entry{
+  font-size: 1rem;
+}
+
+/*---------------------------------------- hero section2 ---------------------------------------------*/
+.hero-section2 h5 {
+  font-size: 2.5rem;
+}
+.hero-section2 h1 {
+  font-size: 5rem;
+}
+
+/*---------------------------------------- information section ---------------------------------------------*/
+.info h4{
+  font-size: 3rem;
+}
+.info h4:hover{
+  color: gold;
+}
+
+/*---------------------------------------- story section ---------------------------------------------*/
+.story .titlex{
+  font-size: 5rem;
+}
+.story .titlecapx{
+  font-size: 2rem;
+}
+.story #acc-head{
+  font-size: 2.5rem;
+}
+.accordion-body #acc-text{
+  font-size: 2rem;
+}
+
+/*---------------------------------------- Our team section ---------------------------------------------*/
+.title1x{
+  font-size: 5rem;
+}
+.ourteam .titlecap1x{
+  font-size: 2rem;
+}
+.ourteam #teamx{
+  height: 350px;
+  width: 250px;
+  border-radius: 25px;
+}
+.ourteam #avatarxx{
+  border-radius: 50%; 
+  height: 100px; 
+  width: 100px; 
+}
+.ourteam h4{
+  font-size: 2rem;
+}
+.ourteam h6{
+  font-size: 1.5rem;
+}
+.ourteam #wor{
+  padding: 3%;
+}
+
+/*---------------------------------------- vision section ---------------------------------------------*/
+.visionx .title11x{
+  font-size: 5rem;
+}
+.visionx .titlecap11x{
+  font-size: 2rem;
+}
+.cardx{
+  border-width: 3px;
+  height: 300px;
+}
+#imgx{
+  border-radius: 50%; 
+  height: 150px; 
+  width: 150px; 
+}
+.visionx h2{
+  font-size: 2rem;
+}
+.visionx h4{
+  font-size: 1.4rem;
+}
+
+/*---------------------------------------- aquainted section ---------------------------------------------*/
+.hero-section21 #title2x{
+  font-size: 5rem;
+}
+.hero-section21 #titlecap2x{
+  font-size: 2.5rem;
+}
+.herosection21 h5{
+  font-size: 2rem;
+}
+.hero-section21 #buttonsub2x{
+  width: 200px;
+  height: 40px;
+}
+
+/*---------------------------------------- hero section3 pages ---------------------------------------------*/
+.hero-section3 h5 {
+  font-size: 2rem;
+}
+.hero-section3 h1 {
+  font-size: 5rem;
+}
+
+/*---------------------------------------- details section ---------------------------------------------*/
+.details h2{
+  font-size: 4rem;
+}
+.details h4{
+  font-size: 2rem;
+
+}
+.details h5{
+  font-size: 1rem;
+}
+
+/*---------------------------------------- hero section4 pages ---------------------------------------------*/
+.hero-section4 h2 {
+  font-size: 2.5rem;
+}
+.hero-section4 h1 {
+  font-size: 5rem;
+}
+.hero-section4 #team2x{
+    height: 375px;
+    width: 275px;
+    border-radius: 25px;
+}
+
+/*---------------------------------------- doit section ---------------------------------------------*/
+.doit h4 {
+  font-size: 2rem;
+}
+.doit h1 {
+  font-size: 5rem;
+}
+
+/*---------------------------------------- engage section ---------------------------------------------*/
+.engage h1 {
+  font-size: 5rem;
+}
+.engage p {
+  font-size: 2rem;
+}
+.engage h3 {
+  font-size: 2.5rem;
+}
+.engage h5 {
+  font-size: 2rem;
+}
+.engage h4{
+  font-size: 2.5rem;
+}
+
+/*---------------------------------------- hero section5 pages ---------------------------------------------*/
+.hero-section5 h5 {
+  font-size: 2rem;
+}
+.hero-section5 h1 {
+  font-size: 5rem;
+}
+
+/*---------------------------------------- Testim section ---------------------------------------------*/
+.testim #lorem1{
+  font-size: smaller;
+}
+.testim #user1{
+  font-size: smaller;
+}
+.testim #post1{
+  font-size:smaller;
+}
+#avatar888{
+  border-radius: 50%; 
+  height: 50px; 
+  width: 50px; 
+}
+/*---------------------------------------- blog section ---------------------------------------------*/
+.blog {
+  height: 180vh;
+}
+#blogp{
+  border-radius: 25px; 
+  height: 150px; 
+  width: 150px; 
+}
+.blog #user1{
+  font-size: 1rem;
+}
+.blog #post1{
+  font-size: 1rem;
+}
+.blog h4{
+  font-size: 2rem;
+}
+.blog h2{
+  font-size: 2.5rem;
+  font-weight: 700;
+}
+.blog p{
+  font-size: 1rem;
+}
+/*---------------------------------------- recent post section ---------------------------------------------*/
+.recent_post {
+  height:120vh;
+}
+.recent_post h1{
+  font-size: 5rem;
+}
+.recent_post #blogp{
+  border-radius: 25px; 
+  height: 90px; 
+  width: 90px; 
+}
+.recent_post #lorem11{
+  font-size: 1.1rem;
+  font-weight:700;
+}
+
+/*---------------------------------------- hero section7 page ---------------------------------------------*/
+.hero-section7 h5 {
+  font-size: 2.5rem;
+}
+.hero-section7 h1 {
+  font-size: 5rem;
+}
+
+/*---------------------------------------- portfolio section ---------------------------------------------*/
+.portfolio1 .title4{
+  font-size: 5rem;
+}
+.portfolio1 .titlecap4{
+  font-size: 2rem;
+}
+.portfolio1 #avatar99{
+  height: 120px;
+  width: 150px;
+}
+.portfolio1 #ispum{
+  font-size:medium;
+}
+.portfolio1 .entry1{
+  font-size: 2rem;
+}
+
+/*---------------------------------------- pricing section ---------------------------------------------*/
+.pricing h1{
+  font-size: 5rem;
+}
+.pricing #titlecaption{
+  font-size: 2.5rem;
+}
+.pricing .box h3 {
+  padding: 15px;
+  font-size: 18px;
+}
+.pricing .box h4 {
+  font-size: 42px;
+}
+.pricing .box h4 sup {
+  font-size: 20px;
+}
+.pricing .box h4 span {
+  font-size: 16px;
+}
+.pricing .box ul {
+  font-size: 14px;
+}
+.pricing .box ul i {
+  font-size: 18px;
+}
+.pricing .box .btn-buy {
+  font-size: 14px;
+}
+}
+
+
+
+
+
+@media only screen and (max-width: 500px){
+  /*---------------------------------------- hero1 section ---------------------------------------------*/
+  .hero-section1 h1 {
+    font-size: 3.5rem;
+  }
+
+/*---------------------------------------- services section ---------------------------------------------*/
+  .title1{
+    font-size: 3.5rem;
+  }
+  .services .titlecap{
+    font-size: 1rem;
+  }
+  #img1{
+    border-radius: 50%; 
+    height: 60px; 
+    width: 60px; 
+  }
+  .cardser{
+    border-radius: 25px;
+    height: 250px;
+    padding-top: 10%;
+  }
+
+ /*---------------------------------------- skills section ---------------------------------------------*/
+ .title2{
+  font-size: 3.5rem;
+}
+.team .titlecap2{
+  font-size: 1rem;
+}
+#avatar{
+  border-radius: 50%; 
+  height: 50px; 
+  width: 50px; 
+}
+.card1{
+  border-radius: 25px;
+  height: 250px;
+}
+.team h4{
+  font-size: medium;
+}
+.team h6{
+  font-size: smaller;
+}
+.team p{
+  font-size: smaller;
+}
+
+/*---------------------------------------- skills section ---------------------------------------------*/
+  .title3{
+    font-size: 3.5rem;
+  }
+  .skills .titlecap3{
+    font-size: 1rem;
+  }
+  #avatar1{
+    border-radius: 50%; 
+    height: 100px; 
+    width: 100px; 
+  }
+  .card2{
+    border-radius: 25px;
+    height: 150px;
+    padding-top: 20%;
+  }
+  .skills #value{
+    font-size:small;
+  }
+
+/*---------------------------------------- portfolio section ---------------------------------------------*/
+  .title4{
+    font-size: 3.5rem;
+  }
+  .portfolio .titlecap4{
+    font-size: 1rem;
+  }
+  #avatar99{
+    height: 100px;
+    width: 150px;
+  }
+  .portfolio #ispum{
+    font-size:medium;
+  }
+/*---------------------------------------- testimonals section ---------------------------------------------*/
+.title5{
+  font-size: 3.5rem;
+}
+.testimonals .titlecap5{
+  font-size: 1rem;
+}
+.testimonals #lorem{
+  font-size: smaller;
+}
+.testimonals #user{
+  font-size: smaller;
+}
+.testimonals #post{
+  font-size: smaller;
+}
+#avatar88{
+  border-radius: 50%; 
+  height: 50px; 
+  width: 50px; 
+}
+/*---------------------------------------- subscribe section ---------------------------------------------*/
+.title6{
+  font-size: 3.5rem;
+}
+.subscribe .titlecap6{
+  font-size: 1rem;
+}
+.subscribe #buttonsub{
+  width: 300px;
+  height: 30px;
+}
+.subscribe #entry{
+  font-size: 1rem;
+}  
+
+/*---------------------------------------- hero section2 ---------------------------------------------*/
+.hero-section2 h5 {
+  font-size: 2.5rem;
+}
+.hero-section2 h1 {
+  font-size: 5rem;
+}
+
+/*---------------------------------------- information section ---------------------------------------------*/
+.info h4{
+  font-size: 3rem;
+}
+.info h4:hover{
+  color: gold;
+}
+
+/*---------------------------------------- story section ---------------------------------------------*/
+.story .titlex{
+  font-size: 5rem;
+}
+.story .titlecapx{
+  font-size: 2rem;
+}
+.story #acc-head{
+  font-size: 2.5rem;
+}
+.accordion-body #acc-text{
+  font-size: 2rem;
+}
+
+/*---------------------------------------- Our team section ---------------------------------------------*/
+.title1x{
+  font-size: 5rem;
+}
+.ourteam .titlecap1x{
+  font-size: 2rem;
+}
+.ourteam #teamx{
+  height: 350px;
+  width: 250px;
+  border-radius: 25px;
+}
+.ourteam #avatarxx{
+  border-radius: 50%; 
+  height: 100px; 
+  width: 100px; 
+}
+.ourteam h4{
+  font-size: 2rem;
+}
+.ourteam h6{
+  font-size: 1.5rem;
+}
+.ourteam #wor{
+  padding: 3%;
+}
+
+/*---------------------------------------- vision section ---------------------------------------------*/
+.visionx .title11x{
+  font-size: 5rem;
+}
+.visionx .titlecap11x{
+  font-size: 2rem;
+}
+.cardx{
+  border-width: 3px;
+  height: 300px;
+}
+#imgx{
+  border-radius: 50%; 
+  height: 150px; 
+  width: 150px; 
+}
+.visionx h2{
+  font-size: 2rem;
+}
+.visionx h4{
+  font-size: 1.4rem;
+}
+
+/*---------------------------------------- aquainted section ---------------------------------------------*/
+.hero-section21 #title2x{
+  font-size: 5rem;
+}
+.hero-section21 #titlecap2x{
+  font-size: 2.5rem;
+}
+.herosection21 h5{
+  font-size: 2rem;
+}
+.hero-section21 #buttonsub2x{
+  width: 200px;
+  height: 40px;
+}
+
+/*---------------------------------------- hero section3 pages ---------------------------------------------*/
+.hero-section3 h5 {
+  font-size: 2rem;
+}
+.hero-section3 h1 {
+  font-size: 5rem;
+}
+
+/*---------------------------------------- details section ---------------------------------------------*/
+.details h2{
+  font-size: 4rem;
+}
+.details h4{
+  font-size: 2rem;
+
+}
+.details h5{
+  font-size: 1rem;
+}
+
+/*---------------------------------------- hero section4 pages ---------------------------------------------*/
+.hero-section4 h2 {
+  font-size: 2.5rem;
+}
+.hero-section4 h1 {
+  font-size: 5rem;
+}
+.hero-section4 #team2x{
+    height: 375px;
+    width: 275px;
+    border-radius: 25px;
+}
+
+/*---------------------------------------- doit section ---------------------------------------------*/
+.doit h4 {
+  font-size: 2rem;
+}
+.doit h1 {
+  font-size: 5rem;
+}
+
+/*---------------------------------------- engage section ---------------------------------------------*/
+.engage h1 {
+  font-size: 5rem;
+}
+.engage p {
+  font-size: 2rem;
+}
+.engage h3 {
+  font-size: 2.5rem;
+}
+.engage h5 {
+  font-size: 2rem;
+}
+.engage h4{
+  font-size: 2.5rem;
+}
+
+/*---------------------------------------- hero section5 pages ---------------------------------------------*/
+.hero-section5 h5 {
+  font-size: 2rem;
+}
+.hero-section5 h1 {
+  font-size: 5rem;
+}
+
+/*---------------------------------------- Testim section ---------------------------------------------*/
+.testim #lorem1{
+  font-size: smaller;
+}
+.testim #user1{
+  font-size: smaller;
+}
+.testim #post1{
+  font-size:smaller;
+}
+#avatar888{
+  border-radius: 50%; 
+  height: 50px; 
+  width: 50px; 
+}
+/*---------------------------------------- blog section ---------------------------------------------*/
+.blog {
+  height: 180vh;
+}
+#blogp{
+  border-radius: 25px; 
+  height: 150px; 
+  width: 150px; 
+}
+.blog #user1{
+  font-size: 1rem;
+}
+.blog #post1{
+  font-size: 1rem;
+}
+.blog h4{
+  font-size: 1.5rem;
+}
+.blog h2{
+  font-size: 2.5rem;
+  font-weight: 700;
+}
+.blog p{
+  font-size: 1rem;
+}
+/*---------------------------------------- recent post section ---------------------------------------------*/
+.recent_post {
+  height:120vh;
+}
+.recent_post h1{
+  font-size: 5rem;
+}
+.recent_post #blogp{
+  border-radius: 25px; 
+  height: 90px; 
+  width: 90px; 
+}
+.recent_post #lorem11{
+  font-size: 1.1rem;
+  font-weight:700;
+}
+
+/*---------------------------------------- hero section7 page ---------------------------------------------*/
+.hero-section7 h5 {
+  font-size: 2.5rem;
+}
+.hero-section7 h1 {
+  font-size: 5rem;
+}
+
+/*---------------------------------------- portfolio section ---------------------------------------------*/
+.portfolio1 .title4{
+  font-size: 5rem;
+}
+.portfolio1 .titlecap4{
+  font-size: 2rem;
+}
+.portfolio1 #avatar99{
+  height: 120px;
+  width: 150px;
+}
+.portfolio1 #ispum{
+  font-size:medium;
+}
+.portfolio1 .entry1{
+  font-size: 2rem;
+}
+
+/*---------------------------------------- pricing section ---------------------------------------------*/
+.pricing h1{
+  font-size: 5rem;
+}
+.pricing #titlecaption{
+  font-size: 2.5rem;
+}
+.pricing .box h3 {
+  padding: 15px;
+  font-size: 18px;
+}
+.pricing .box h4 {
+  font-size: 42px;
+}
+.pricing .box h4 sup {
+  font-size: 17px;
+}
+.pricing .box h4 span {
+  font-size: 12px;
+}
+.pricing .box ul {
+  font-size: 14px;
+}
+.pricing .box ul i {
+  font-size: 18px;
+}
+.pricing .box .btn-buy {
+  font-size: 14px;
+}
+}
+
+
+@media only screen and (max-width: 442px){
+  /*---------------------------------------- hero section2 ---------------------------------------------*/
+.hero-section2 h5 {
+  font-size: 1.5rem;
+}
+.hero-section2 h1 {
+  font-size: 3.5rem;
+}
+
+/*---------------------------------------- information section ---------------------------------------------*/
+.info h4{
+  font-size: 2rem;
+}
+.info h4:hover{
+  color: gold;
+}
+
+/*---------------------------------------- story section ---------------------------------------------*/
+.story .titlex{
+  font-size: 3.5rem;
+}
+.story .titlecapx{
+  font-size: 1.5rem;
+}
+.story #acc-head{
+  font-size: 1.5rem;
+}
+.accordion-body #acc-text{
+  font-size: 1rem;
+}
+
+/*---------------------------------------- Our team section ---------------------------------------------*/
+.title1x{
+  font-size: 3.5rem;
+}
+.ourteam .titlecap1x{
+  font-size: 2rem;
+}
+.ourteam #teamx{
+  height: 150px;
+  width: 90px;
+  border-radius: 25px;
+}
+.ourteam #avatarxx{
+  border-radius: 50%; 
+  height: 90px; 
+  width: 90px; 
+}
+.ourteam h4{
+  font-size: 2rem;
+}
+.ourteam h6{
+  font-size: 1.5rem;
+}
+.ourteam #wor{
+  padding: 3%;
+}
+
+/*---------------------------------------- vision section ---------------------------------------------*/
+.visionx .title11x{
+  font-size: 3.5rem;
+}
+.visionx .titlecap11x{
+  font-size: 2rem;
+}
+.cardx{
+  border-width: 3px;
+  height: 300px;
+}
+#imgx{
+  border-radius: 50%; 
+  height: 100px; 
+  width: 100px; 
+}
+.visionx h2{
+  font-size: 2rem;
+}
+.visionx h4{
+  font-size: 1.4rem;
+}
+
+/*---------------------------------------- aquainted section ---------------------------------------------*/
+.hero-section21 #title2x{
+  font-size: 3.5rem;
+}
+.hero-section21 #titlecap2x{
+  font-size: 2rem;
+}
+.herosection21 h5{
+  font-size: 2rem;
+}
+.hero-section21 #buttonsub2x{
+  width: 200px;
+  height: 40px;
+}
+
+/*---------------------------------------- hero section3 pages ---------------------------------------------*/
+.hero-section3 h5 {
+  font-size: 2rem;
+}
+.hero-section3 h1 {
+  font-size: 3.5rem;
+}
+
+/*---------------------------------------- details section ---------------------------------------------*/
+.details h2{
+  font-size: 3.5rem;
+}
+.details h4{
+  font-size: 2rem;
+
+}
+.details h5{
+  font-size: 1rem;
+}
+
+/*---------------------------------------- hero section4 pages ---------------------------------------------*/
+.hero-section4 h2 {
+  font-size: 2.5rem;
+}
+.hero-section4 h1 {
+  font-size: 4.5rem;
+}
+.hero-section4 #team2x{
+    height: 375px;
+    width: 275px;
+    border-radius: 25px;
+}
+
+/*---------------------------------------- doit section ---------------------------------------------*/
+.doit h4 {
+  font-size: 1.8rem;
+}
+.doit h1 {
+  font-size: 4.4rem;
+}
+
+/*---------------------------------------- engage section ---------------------------------------------*/
+.engage h1 {
+  font-size: 4.5rem;
+}
+.engage p {
+  font-size: 1.5rem;
+}
+.engage h3 {
+  font-size: 2.4rem;
+}
+.engage h5 {
+  font-size: 1.5rem;
+}
+.engage h4{
+  font-size: 2.4rem;
+}
+
+/*---------------------------------------- hero section5 pages ---------------------------------------------*/
+.hero-section5 h5 {
+  font-size: 2rem;
+}
+.hero-section5 h1 {
+  font-size: 4.5rem;
+}
+
+/*---------------------------------------- Testim section ---------------------------------------------*/
+.testim #lorem1{
+  font-size: smaller;
+}
+.testim #user1{
+  font-size: smaller;
+}
+.testim #post1{
+  font-size:smaller;
+}
+#avatar888{
+  border-radius: 50%; 
+  height: 50px; 
+  width: 50px; 
+}
+/*---------------------------------------- hero section6 section ---------------------------------------------*/
+.hero-section6 h5 {
+  font-size: 2rem;
+}
+.hero-section6 h1 {
+  font-size: 3.5rem;
+}
+/*---------------------------------------- blog section ---------------------------------------------*/
+.blog {
+  height: 180vh;
+}
+#blogp{
+  border-radius: 25px; 
+  height: 120px; 
+  width: 120px; 
+}
+.blog #user1{
+  font-size: 1rem;
+}
+.blog #post1{
+  font-size: 1rem;
+}
+.blog h4{
+  font-size: 1.5rem;
+}
+.blog h2{
+  font-size: 2.5rem;
+  font-weight: 700;
+}
+.blog p{
+  font-size: 1rem;
+}
+/*---------------------------------------- recent post section ---------------------------------------------*/
+.recent_post {
+  height:120vh;
+}
+.recent_post h1{
+  font-size: 3.5rem;
+}
+.recent_post #blogp{
+  border-radius: 25px; 
+  height: 90px; 
+  width: 90px; 
+}
+.recent_post #lorem11{
+  font-size: 1.1rem;
+  font-weight:700;
+}
+
+/*---------------------------------------- hero section7 page ---------------------------------------------*/
+.hero-section7 h5 {
+  font-size: 2rem;
+}
+.hero-section7 h1 {
+  font-size: 3.5rem;
+}
+
+/*---------------------------------------- portfolio section ---------------------------------------------*/
+.portfolio1 .title4{
+  font-size: 3.5rem;
+}
+.portfolio1 .titlecap4{
+  font-size: 2rem;
+}
+.portfolio1 #avatar99{
+  height: 100px;
+  width: 120px;
+}
+.portfolio1 #ispum{
+  font-size:medium;
+}
+
+
+/*---------------------------------------- pricing section ---------------------------------------------*/
+.pricing h1{
+  font-size: 3.5rem;
+}
+.pricing #titlecaption{
+  font-size: 2rem;
+}
+.pricing .box h3 {
+  padding: 15px;
+  font-size: 18px;
+}
+.pricing .box h4 {
+  font-size: 42px;
+}
+.pricing .box h4 sup {
+  font-size: 17px;
+}
+.pricing .box h4 span {
+  font-size: 12px;
+}
+.pricing .box ul {
+  font-size: 14px;
+}
+.pricing .box ul i {
+  font-size: 18px;
+}
+.pricing .box .btn-buy {
+  font-size: 14px;
+}
+}
+
+
+
+@media only screen and (max-width: 415px){
+  /*---------------------------------------- hero1 section ---------------------------------------------*/
+  .hero-section1 h1 {
+    font-size: 3rem;
+  }
+
+/*---------------------------------------- services section ---------------------------------------------*/
+  .title1{
+    font-size: 3rem;
+  }
+  .services .titlecap{
+    font-size: 1rem;
+  }
+  .services h5{
+    font-size: medium;
+   
+  }
+  .services p{
+    font-size: smaller;
+  }
+  #img1{
+    border-radius: 50%; 
+    height: 60px; 
+    width: 60px; 
+  }
+  .cardser{
+    border-radius: 25px;
+    height: 250px;
+    padding-top: 10%;
+  }
+
+ /*---------------------------------------- skills section ---------------------------------------------*/
+ .title2{
+  font-size: 3rem;
+}
+.team .titlecap2{
+  font-size: 1rem;
+}
+#avatar{
+  border-radius: 50%; 
+  height: 50px; 
+  width: 50px; 
+}
+.card1{
+  border-width: 3px;
+  border-radius: 25px;
+  height: 250px;
+}
+.team h4{
+  font-size: medium;
+}
+.team h6{
+  font-size: smaller;
+}
+.team p{
+  font-size: smaller;
+}
+
+/*---------------------------------------- skills section ---------------------------------------------*/
+  .title3{
+    font-size: 3rem;
+  }
+  .skills .titlecap3{
+    font-size: 1rem;
+  }
+  #avatar1{
+    border-radius: 50%; 
+    height: 100px; 
+    width: 100px; 
+  }
+  .card2{
+    border-radius: 25px;
+    height: 150px;
+    padding-top: 20%;
+  }
+  .skills #value{
+    font-size:small;
+  }
+
+/*---------------------------------------- portfolio section ---------------------------------------------*/
+  .title4{
+    font-size: 3rem;
+  }
+  .portfolio .titlecap4{
+    font-size: 1rem;
+  }
+  #avatar99{
+    height: 100px;
+    width: 150px;
+  }
+  .portfolio #ispum{
+    font-size:medium;
+  }
+/*---------------------------------------- testimonals section ---------------------------------------------*/
+.title5{
+  font-size: 3rem;
+}
+.testimonals .titlecap5{
+  font-size: 1rem;
+}
+.testimonals #lorem{
+  font-size: smaller;
+}
+.testimonals #user{
+  font-size: smaller;
+}
+.testimonals #post{
+  font-size: smaller;
+}
+#avatar88{
+  border-radius: 50%; 
+  height: 50px; 
+  width: 50px; 
+}
+/*---------------------------------------- subscribe section ---------------------------------------------*/
+.title6{
+  font-size: 3rem;
+}
+.subscribe .titlecap6{
+  font-size: 1rem;
+}
+.subscribe #buttonsub{
+  width: 300px;
+  height: 30px;
+}
+.subscribe #entry{
+  font-size: 1rem;
+}  
+
+/*---------------------------------------- hero section2 ---------------------------------------------*/
+.hero-section2 h5 {
+  font-size: 2.5rem;
+}
+.hero-section2 h1 {
+  font-size: 4.5rem;
+}
+
+/*---------------------------------------- information section ---------------------------------------------*/
+.info h4{
+  font-size: 2.5rem;
+}
+.info h4:hover{
+  color: gold;
+}
+
+/*---------------------------------------- story section ---------------------------------------------*/
+.story .titlex{
+  font-size: 4.5rem;
+}
+.story .titlecapx{
+  font-size: 1.5rem;
+}
+.story #acc-head{
+  font-size: 1.5rem;
+}
+.accordion-body #acc-text{
+  font-size: 1rem;
+}
+
+/*---------------------------------------- Our team section ---------------------------------------------*/
+.title1x{
+  font-size: 5rem;
+}
+.ourteam .titlecap1x{
+  font-size: 2rem;
+}
+.ourteam #teamx{
+  height: 250px;
+  width: 150px;
+  border-radius: 25px;
+}
+.ourteam #avatarxx{
+  border-radius: 50%; 
+  height: 90px; 
+  width: 90px; 
+}
+.ourteam h4{
+  font-size: 2rem;
+}
+.ourteam h6{
+  font-size: 1.5rem;
+}
+.ourteam #wor{
+  padding: 3%;
+}
+
+/*---------------------------------------- vision section ---------------------------------------------*/
+.visionx .title11x{
+  font-size: 4.5rem;
+}
+.visionx .titlecap11x{
+  font-size: 2rem;
+}
+.cardx{
+  border-width: 3px;
+  height: 300px;
+}
+#imgx{
+  border-radius: 50%; 
+  height: 100px; 
+  width: 100px; 
+}
+.visionx h2{
+  font-size: 2rem;
+}
+.visionx h4{
+  font-size: 1.4rem;
+}
+
+/*---------------------------------------- aquainted section ---------------------------------------------*/
+.hero-section21 #title2x{
+  font-size: 3.5rem;
+}
+.hero-section21 #titlecap2x{
+  font-size: 2rem;
+}
+.herosection21 h5{
+  font-size: 2rem;
+}
+.hero-section21 #buttonsub2x{
+  width: 200px;
+  height: 40px;
+}
+
+/*---------------------------------------- hero section3 pages ---------------------------------------------*/
+.hero-section3 h5 {
+  font-size: 2rem;
+}
+.hero-section3 h1 {
+  font-size: 3.5rem;
+}
+
+/*---------------------------------------- details section ---------------------------------------------*/
+.details h2{
+  font-size: 3.5rem;
+}
+.details h4{
+  font-size: 2rem;
+
+}
+.details h5{
+  font-size: 1rem;
+}
+
+/*---------------------------------------- hero section4 pages ---------------------------------------------*/
+.hero-section4 h2 {
+  font-size: 2rem;
+}
+.hero-section4 h1 {
+  font-size: 3.5rem;
+}
+.hero-section4 #team2x{
+    height: 360px;
+    width: 260px;
+    border-radius: 25px;
+}
+
+/*---------------------------------------- doit section ---------------------------------------------*/
+.doit h4 {
+  font-size: 1.6rem;
+}
+.doit h1 {
+  font-size: 3.5rem;
+}
+
+/*---------------------------------------- engage section ---------------------------------------------*/
+.engage h1 {
+  font-size: 3.5rem;
+}
+.engage p {
+  font-size: 1.4rem;
+}
+.engage h3 {
+  font-size: 2.4rem;
+}
+.engage h5 {
+  font-size: 1.5rem;
+}
+.engage h4{
+  font-size: 2.4rem;
+}
+
+/*---------------------------------------- hero section5 pages ---------------------------------------------*/
+.hero-section5 h5 {
+  font-size: 2rem;
+}
+.hero-section5 h1 {
+  font-size: 4.5rem;
+}
+
+/*---------------------------------------- Testim section ---------------------------------------------*/
+.testim #lorem1{
+  font-size: smaller;
+}
+.testim #user1{
+  font-size: smaller;
+}
+.testim #post1{
+  font-size:smaller;
+}
+#avatar888{
+  border-radius: 50%; 
+  height: 50px; 
+  width: 50px; 
+}
+
+/*---------------------------------------- hero section6 section ---------------------------------------------*/
+.hero-section6 h5 {
+  font-size: 2rem;
+}
+.hero-section6 h1 {
+  font-size: 3.5rem;
+}
+
+/*---------------------------------------- blog section ---------------------------------------------*/
+.blog {
+  height: 190vh;
+}
+#blogp{
+  border-radius: 25px; 
+  height: 120px; 
+  width: 120px; 
+}
+.blog #user1{
+  font-size: 1rem;
+}
+.blog #post1{
+  font-size: 1rem;
+}
+.blog h4{
+  font-size: 1.1rem;
+}
+.blog h2{
+  font-size: 2.5rem;
+  font-weight: 700;
+}
+.blog p{
+  font-size: 1rem;
+}
+
+/*---------------------------------------- recent post section ---------------------------------------------*/
+.recent_post {
+  height:150vh;
+}
+.recent_post h1{
+  font-size: 3.5rem;
+}
+.recent_post #blogp{
+  border-radius: 25px; 
+  height: 90px; 
+  width: 90px; 
+}
+.recent_post #lorem11{
+  font-size: 1.1rem;
+  font-weight:700;
+}
+
+/*---------------------------------------- hero section7 page ---------------------------------------------*/
+.hero-section7 h5 {
+  font-size: 2rem;
+}
+.hero-section7 h1 {
+  font-size: 3.5rem;
+}
+
+/*---------------------------------------- portfolio section ---------------------------------------------*/
+.portfolio1 .title4{
+  font-size: 3.5rem;
+}
+.portfolio1 .titlecap4{
+  font-size: 2rem;
+}
+.portfolio1 #avatar99{
+  height: 100px;
+  width: 120px;
+}
+.portfolio1 #ispum{
+  font-size:medium;
+}
+
+
+/*---------------------------------------- pricing section ---------------------------------------------*/
+.pricing h1{
+  font-size: 3.5rem;
+}
+.pricing #titlecaption{
+  font-size: 2rem;
+}
+.pricing .box h3 {
+  padding: 15px;
+  font-size: 18px;
+}
+.pricing .box h4 {
+  font-size: 35px;
+}
+.pricing .box h4 sup {
+  font-size: 15px;
+}
+.pricing .box h4 span {
+  font-size: 10px;
+}
+.pricing .box ul {
+  font-size: 12px;
+}
+.pricing .box ul i {
+  font-size: 16px;
+}
+.pricing .box .btn-buy {
+  font-size: 8px;
+}
+}
+
+
+
+
+
+@media only screen and (max-width: 391px){
+  /*---------------------------------------- hero1 section ---------------------------------------------*/
+  .hero-section1 {
+   padding-bottom: 30%;
+ }
+ .hero-section1 h1 {
+   font-size: 2.5rem;
+ }
+
+/*---------------------------------------- services section ---------------------------------------------*/
+ .title1{
+   font-size: 2.5rem;
+ }
+ .services .titlecap{
+   font-size: 1rem;
+ }
+ #img1{
+   border-radius: 50%; 
+   height: 60px; 
+   width: 60px; 
+ }
+ .cardser{
+   border-radius: 25px;
+   height: 250px;
+   padding-top: 10%;
+ }
+
+/*---------------------------------------- team section ---------------------------------------------*/
+.title2{
+ font-size: 2.5rem;
+}
+.team .titlecap2{
+ font-size: 1rem;
+}
+#avatar{
+ border-radius: 50%; 
+ height: 50px; 
+ width: 50px; 
+}
+.card1{
+ border-radius: 25px;
+ height: 250px;
+ padding-top: 20%;
+}
+.team h4{
+ font-size: medium;
+}
+.team h6{
+ font-size: smaller;
+}
+.team p{
+ font-size: smaller;
+}
+
+/*---------------------------------------- skills section ---------------------------------------------*/
+ .title3{
+   font-size: 2.5rem;
+ }
+ .skills .titlecap3{
+   font-size: 1rem;
+ }
+ #avatar1{
+   border-radius: 50%; 
+   height: 100px; 
+   width: 100px; 
+ }
+ .card2{
+   border-radius: 25px;
+   height: 150px;
+   padding-top: 20%;
+ }
+ .skills #value{
+   font-size:small;
+ }
+
+/*---------------------------------------- portfolio section ---------------------------------------------*/
+ .title4{
+   font-size: 2.5rem;
+ }
+ .portfolio .titlecap4{
+   font-size: 1rem;
+ }
+ #avatar99{
+   height: 100px;
+   width: 150px;
+ }
+ .portfolio #ispum{
+   font-size:small;
+ }
+/*---------------------------------------- testimonals section ---------------------------------------------*/
+.title5{
+ font-size: 2.5rem;
+}
+.testimonals .titlecap5{
+ font-size: 1rem;
+}
+.testimonals #lorem{
+ font-size: smaller;
+}
+.testimonals #user{
+ font-size: smaller;
+}
+.testimonals #post{
+ font-size: smaller;
+}
+#avatar88{
+ border-radius: 50%; 
+ height: 50px; 
+ width: 50px; 
+}
+/*---------------------------------------- subscribe section ---------------------------------------------*/
+.title6{
+ font-size: 2.5rem;
+}
+.subscribe .titlecap6{
+ font-size: 1rem;
+}
+.subscribe #buttonsub{
+ width: 300px;
+ height: 30px;
+}
+.subscribe #entry{
+ font-size: 1rem;
+}   
+
+/*---------------------------------------- hero section2 ---------------------------------------------*/
+.hero-section2 h5 {
+  font-size: 1.5rem;
+}
+.hero-section2 h1 {
+  font-size: 3.5rem;
+}
+
+/*---------------------------------------- information section ---------------------------------------------*/
+.info h4{
+  font-size: 2.3rem;
+}
+.info h4:hover{
+  color: gold;
+}
+
+/*---------------------------------------- story section ---------------------------------------------*/
+.story .titlex{
+  font-size: 3.5rem;
+}
+.story .titlecapx{
+  font-size: 1.5rem;
+}
+.story #acc-head{
+  font-size: 1.5rem;
+}
+.accordion-body #acc-text{
+  font-size: 1rem;
+}
+
+/*---------------------------------------- Our team section ---------------------------------------------*/
+.title1x{
+  font-size: 3.5rem;
+}
+.ourteam .titlecap1x{
+  font-size: 1.5rem;
+}
+.ourteam #teamx{
+  height: 250px;
+  width: 150px;
+  border-radius: 25px;
+}
+.ourteam #avatarxx{
+  border-radius: 50%; 
+  height: 90px; 
+  width: 90px; 
+}
+.ourteam h4{
+  font-size: 1.5rem;
+}
+.ourteam h6{
+  font-size: 1rem;
+}
+.ourteam #wor{
+  padding: 3%;
+}
+
+/*---------------------------------------- vision section ---------------------------------------------*/
+.visionx .title11x{
+  font-size: 3.5rem;
+}
+.visionx .titlecap11x{
+  font-size: 1.5rem;
+}
+.cardx{
+  border-width: 3px;
+  height: 300px;
+}
+#imgx{
+  border-radius: 50%; 
+  height: 100px; 
+  width: 100px; 
+}
+.visionx h2{
+  font-size: 2rem;
+}
+.visionx h4{
+  font-size: 1.4rem;
+}
+
+/*---------------------------------------- aquainted section ---------------------------------------------*/
+.hero-section21 #title2x{
+  font-size: 3.5rem;
+}
+.hero-section21 #titlecap2x{
+  font-size: 1.5rem;
+}
+.herosection21 h5{
+  font-size: 2rem;
+}
+.hero-section21 #buttonsub2x{
+  width: 200px;
+  height: 40px;
+}
+
+/*---------------------------------------- hero section3 pages ---------------------------------------------*/
+.hero-section3 h5 {
+  font-size: 2rem;
+}
+.hero-section3 h1 {
+  font-size: 3.5rem;
+}
+
+/*---------------------------------------- details section ---------------------------------------------*/
+.details h2{
+  font-size: 3.5rem;
+}
+.details h4{
+  font-size: 2rem;
+
+}
+.details h5{
+  font-size: 1rem;
+}
+
+/*---------------------------------------- hero section4 pages ---------------------------------------------*/
+.hero-section4 h2 {
+  font-size: 2rem;
+}
+.hero-section4 h1 {
+  font-size: 3.5rem;
+}
+.hero-section4 #team2x{
+    height: 360px;
+    width: 260px;
+    border-radius: 25px;
+}
+
+/*---------------------------------------- doit section ---------------------------------------------*/
+.doit h4 {
+  font-size: 1.5rem;
+}
+.doit h1 {
+  font-size: 3.5rem;
+}
+
+/*---------------------------------------- engage section ---------------------------------------------*/
+.engage h1 {
+  font-size: 3.5rem;
+}
+.engage p {
+  font-size: 1.5rem;
+}
+.engage h3 {
+  font-size: 2.4rem;
+}
+.engage h5 {
+  font-size: 1.5rem;
+}
+.engage h4{
+  font-size: 2.4rem;
+}
+
+/*---------------------------------------- hero section5 pages ---------------------------------------------*/
+.hero-section5 h5 {
+  font-size: 1.5rem;
+}
+.hero-section5 h1 {
+  font-size: 3.5rem;
+}
+
+/*---------------------------------------- Testim section ---------------------------------------------*/
+.testim #lorem1{
+  font-size: smaller;
+}
+.testim #user1{
+  font-size: smaller;
+}
+.testim #post1{
+  font-size:smaller;
+}
+#avatar888{
+  border-radius: 50%; 
+  height: 50px; 
+  width: 50px; 
+}
+
+/*---------------------------------------- hero section6 section ---------------------------------------------*/
+.hero-section6 h5 {
+  font-size: 2rem;
+}
+.hero-section6 h1 {
+  font-size: 3.5rem;
+}
+
+/*---------------------------------------- blog section ---------------------------------------------*/
+.blog {
+  height: 180vh;
+}
+#blogp{
+  border-radius: 25px; 
+  height: 120px; 
+  width: 120px; 
+}
+.blog #user1{
+  font-size: 1rem;
+}
+.blog #post1{
+  font-size: 1rem;
+}
+.blog h4{
+  font-size: 1.1rem;
+}
+.blog h2{
+  font-size: 2.5rem;
+  font-weight: 700;
+}
+.blog p{
+  font-size: 1rem;
+}
+
+/*---------------------------------------- recent post section ---------------------------------------------*/
+.recent_post {
+  height:130vh;
+}
+.recent_post h1{
+  font-size: 3.5rem;
+}
+.recent_post #blogp{
+  border-radius: 25px; 
+  height: 90px; 
+  width: 90px; 
+}
+.recent_post #lorem11{
+  font-size: 1.1rem;
+  font-weight:700;
+}
+
+/*---------------------------------------- hero section7 page ---------------------------------------------*/
+.hero-section7 h5 {
+  font-size: 2rem;
+}
+.hero-section7 h1 {
+  font-size: 3.5rem;
+}
+
+/*---------------------------------------- portfolio section ---------------------------------------------*/
+.portfolio1 .title4{
+  font-size: 3.5rem;
+}
+.portfolio1 .titlecap4{
+  font-size: 2rem;
+}
+.portfolio1 #avatar99{
+  height: 90px;
+  width: 100px;
+}
+.portfolio1 #ispum{
+  font-size:small;
+}
+
+
+/*---------------------------------------- pricing section ---------------------------------------------*/
+.pricing h1{
+  font-size: 3.5rem;
+}
+.pricing #titlecaption{
+  font-size: 2rem;
+}
+.pricing .box h3 {
+  padding: 15px;
+  font-size: 18px;
+}
+.pricing .box h4 {
+  font-size: 35px;
+}
+.pricing .box h4 sup {
+  font-size: 15px;
+}
+.pricing .box h4 span {
+  font-size: 10px;
+}
+.pricing .box ul {
+  font-size: 12px;
+}
+.pricing .box ul i {
+  font-size: 16px;
+}
+.pricing .box .btn-buy {
+  font-size: 8px;
+}
+}
+
+
+
+@media only screen and (max-width:376px){
+  /*---------------------------------------- hero section4 pages ---------------------------------------------*/
+.hero-section4 h2 {
+  font-size: 2rem;
+}
+.hero-section4 h1 {
+  font-size: 3rem;
+}
+.hero-section4 #team2x{
+    height: 360px;
+    width: 260px;
+    border-radius: 25px;
+}
+
+/*---------------------------------------- doit section ---------------------------------------------*/
+.doit h4 {
+  font-size: 1.2rem;
+}
+.doit h1 {
+  font-size: 3rem;
+}
+
+/*---------------------------------------- engage section ---------------------------------------------*/
+.engage h1 {
+  font-size: 3rem;
+}
+.engage p {
+  font-size: 1.2rem;
+}
+.engage h3 {
+  font-size: 2rem;
+}
+.engage h5 {
+  font-size: 1rem;
+}
+.engage h4{
+  font-size: 2rem;
+}
+
+/*---------------------------------------- hero section6 section ---------------------------------------------*/
+.hero-section6 h5 {
+  font-size: 2rem;
+}
+.hero-section6 h1 {
+  font-size: 3.5rem;
+}
+
+/*---------------------------------------- blog section ---------------------------------------------*/
+.blog {
+  height: 200vh;
+}
+#blogp{
+  border-radius: 25px; 
+  height: 100px; 
+  width: 100px; 
+}
+.blog #user1{
+  font-size: 1rem;
+}
+.blog #post1{
+  font-size: 1rem;
+}
+.blog h4{
+  font-size: 1rem;
+}
+.blog h2{
+  font-size: 2.5rem;
+  font-weight: 700;
+}
+.blog p{
+  font-size: 1rem;
+}
+
+/*---------------------------------------- recent post section ---------------------------------------------*/
+.recent_post {
+  height:150vh;
+}
+.recent_post h1{
+  font-size: 3.5rem;
+}
+.recent_post #blogp{
+  border-radius: 25px; 
+  height: 90px; 
+  width: 90px; 
+}
+.recent_post #lorem11{
+  font-size: 1.1rem;
+  font-weight:700;
+}
+
+
+/*---------------------------------------- hero section7 page ---------------------------------------------*/
+.hero-section7 h5 {
+  font-size: 2rem;
+}
+.hero-section7 h1 {
+  font-size: 3.5rem;
+}
+
+/*---------------------------------------- portfolio section ---------------------------------------------*/
+.portfolio1 .title4{
+  font-size: 3.5rem;
+}
+.portfolio1 .titlecap4{
+  font-size: 2rem;
+}
+.portfolio1 #avatar99{
+  height: 90px;
+  width: 100px;
+}
+.portfolio1 #ispum{
+  font-size:small;
+}
+
+
+/*---------------------------------------- pricing section ---------------------------------------------*/
+.pricing h1{
+  font-size: 3.5rem;
+}
+.pricing #titlecaption{
+  font-size: 2rem;
+}
+.pricing .box h3 {
+  padding: 15px;
+  font-size: 14px;
+}
+.pricing .box h4 {
+  font-size: 33px;
+}
+.pricing .box h4 sup {
+  font-size: 13px;
+}
+.pricing .box h4 span {
+  font-size: 8px;
+}
+.pricing .box ul {
+  font-size: 10px;
+}
+.pricing .box ul i {
+  font-size: 14px;
+}
+.pricing .box .btn-buy {
+  font-size: 8px;
+}
+}
+
+
+
+
+@media only screen and (max-width:361px){
+  /*---------------------------------------- hero section4 pages ---------------------------------------------*/
+.hero-section4 h2 {
+  font-size: 2rem;
+}
+.hero-section4 h1 {
+  font-size: 3rem;
+}
+.hero-section4 #team2x{
+    height: 360px;
+    width: 260px;
+    border-radius: 25px;
+}
+
+/*---------------------------------------- doit section ---------------------------------------------*/
+.doit h4 {
+  font-size: 1.2rem;
+}
+.doit h1 {
+  font-size: 3rem;
+}
+
+/*---------------------------------------- engage section ---------------------------------------------*/
+.engage h1 {
+  font-size: 3rem;
+}
+.engage p {
+  font-size: 1.2rem;
+}
+.engage h3 {
+  font-size: 2rem;
+}
+.engage h5 {
+  font-size: 1rem;
+}
+.engage h4{
+  font-size: 2rem;
+}
+
+/*---------------------------------------- hero section5 pages ---------------------------------------------*/
+.hero-section5 h5 {
+  font-size: 1.5rem;
+}
+.hero-section5 h1 {
+  font-size: 3.5rem;
+}
+
+/*---------------------------------------- Testim section ---------------------------------------------*/
+.testim #lorem1{
+  font-size:7.5px;
+}
+.testim #user1{
+  font-size: 7.5px;
+}
+.testim #post1{
+  font-size: 7.5px;
+}
+#avatar888{
+  border-radius: 50%; 
+  height: 40px; 
+  width: 40px; 
+}
+/*---------------------------------------- hero section6 section ---------------------------------------------*/
+.hero-section6 h5 {
+  font-size: 2rem;
+}
+.hero-section6 h1 {
+  font-size: 3.5rem;
+}
+
+/*---------------------------------------- blog section ---------------------------------------------*/
+.blog {
+  height: 210vh;
+}
+#blogp{
+  border-radius: 25px; 
+  height: 110px; 
+  width: 110px; 
+}
+.blog #user1{
+  font-size: 1rem;
+}
+.blog #post1{
+  font-size: 1rem;
+}
+.blog h4{
+  font-size: 1rem;
+}
+.blog h2{
+  font-size: 2.5rem;
+  font-weight: 700;
+}
+.blog p{
+  font-size: 1rem;
+}
+
+/*---------------------------------------- recent post section ---------------------------------------------*/
+.recent_post {
+  height:190vh;
+}
+.recent_post h1{
+  font-size: 3.5rem;
+}
+.recent_post #blogp{
+  border-radius: 25px; 
+  height: 90px; 
+  width: 90px; 
+}
+.recent_post #lorem11{
+  font-size: 1.1rem;
+  font-weight:700;
+}
+
+/*---------------------------------------- hero section7 page ---------------------------------------------*/
+.hero-section7 h5 {
+  font-size: 2rem;
+}
+.hero-section7 h1 {
+  font-size: 3.5rem;
+}
+
+/*---------------------------------------- portfolio section ---------------------------------------------*/
+.portfolio1 .title4{
+  font-size: 3.5rem;
+}
+.portfolio1 .titlecap4{
+  font-size: 2rem;
+}
+.portfolio1 #avatar99{
+  height: 90px;
+  width: 100px;
+}
+.portfolio1 #ispum{
+  font-size:small;
+}
+
+
+/*---------------------------------------- pricing section ---------------------------------------------*/
+.pricing h1{
+  font-size: 3.5rem;
+}
+.pricing #titlecaption{
+  font-size: 2rem;
+}
+.pricing .box h3 {
+  padding: 15px;
+  font-size: 12px;
+}
+.pricing .box h4 {
+  font-size: 30px;
+}
+.pricing .box h4 sup {
+  font-size: 11px;
+}
+.pricing .box h4 span {
+  font-size: 6px;
+}
+.pricing .box ul {
+  font-size: 8px;
+}
+.pricing .box ul i {
+  font-size: 12px;
+}
+.pricing .box .btn-buy {
+  font-size: 6px;
+}
+}
+
+
+
+
+@media only screen and (max-width:320px){
+   /*---------------------------------------- hero1 section ---------------------------------------------*/
+  .hero-section1 h1 {
+    font-size: 2.5rem;
+  }
+
+/*---------------------------------------- services section ---------------------------------------------*/
+  .title1{
+    font-size: 2.5rem;
+  }
+  .services .titlecap{
+    font-size: 1rem;
+  }
+  #img1{
+    border-radius: 50%; 
+    height: 60px; 
+    width: 60px; 
+  }
+  .cardser{
+    border-radius: 25px;
+    height: 250px;
+    padding-top: 10%;
+  }
+  .services h5{
+    font-size: small;
+   
+  }
+  .services p{
+    font-size: smaller;
+  }
+
+ /*---------------------------------------- team section ---------------------------------------------*/
+ .title2{
+  font-size: 2.5rem;
+}
+.team .titlecap2{
+  font-size: 1rem;
+}
+#avatar{
+  border-radius: 50%; 
+  height: 50px; 
+  width: 50px; 
+}
+.card1{
+  border-radius: 25px;
+  height: 250px;
+}
+.team h4{
+  font-size: medium;
+}
+.team h6{
+  font-size: smaller;
+}
+.team p{
+  font-size: smaller;
+}
+
+/*---------------------------------------- skills section ---------------------------------------------*/
+  .title3{
+    font-size: 2.5rem;
+  }
+  .skills .titlecap3{
+    font-size: 1rem;
+  }
+  #avatar1{
+    border-radius: 50%; 
+    height: 100px; 
+    width: 100px; 
+  }
+  .card2{
+    border-radius: 25px;
+    height: 150px;
+    padding-top: 20%;
+  }
+  .skills #value{
+    font-size:smaller;
+  }
+
+/*---------------------------------------- portfolio section ---------------------------------------------*/
+  .title4{
+    font-size: 2.5rem;
+  }
+  .portfolio .titlecap4{
+    font-size: 1rem;
+  }
+  #avatar99{
+    height: 100px;
+    width: 150px;
+  }
+  .portfolio #ispum{
+    font-size:smaller;
+  }
+
+/*---------------------------------------- testimonals section ---------------------------------------------*/
+.title5{
+  font-size: 2.5rem;
+}
+.testimonals .titlecap5{
+  font-size: 1rem;
+}
+.testimonals #lorem{
+  font-size: smaller;
+}
+.testimonals #user{
+  font-size: smaller;
+}
+.testimonals #post{
+  font-size: smaller;
+}
+#avatar88{
+  border-radius: 50%; 
+  height: 50px; 
+  width: 50px; 
+}
+/*---------------------------------------- subscribe section ---------------------------------------------*/
+.title6{
+  font-size: 2.5rem;
+}
+.subscribe .titlecap6{
+  font-size: 1rem;
+}
+.subscribe #buttonsub{
+  width: 300px;
+  height: 30px;
+}
+.subscribe #entry{
+  font-size: 1rem;
+}   
+
+/*---------------------------------------- hero section2 ---------------------------------------------*/
+.hero-section2 h5 {
+  font-size: 1rem;
+}
+.hero-section2 h1 {
+  font-size: 2.5rem;
+}
+
+/*---------------------------------------- information section ---------------------------------------------*/
+.info h4{
+  font-size: 2rem;
+}
+.info h4:hover{
+  color: gold;
+}
+
+/*---------------------------------------- story section ---------------------------------------------*/
+.story .titlex{
+  font-size: 2.5rem;
+}
+.story .titlecapx{
+  font-size: 1rem;
+}
+.story #acc-head{
+  font-size: 1.5rem;
+}
+.accordion-body #acc-text{
+  font-size: 1rem;
+}
+
+/*---------------------------------------- Our team section ---------------------------------------------*/
+.title1x{
+  font-size: 2.5rem;
+}
+.ourteam .titlecap1x{
+  font-size: 1rem;
+}
+.ourteam #teamx{
+  height: 200px;
+  width: 100px;
+  border-radius: 25px;
+}
+.ourteam #avatarxx{
+  border-radius: 50%; 
+  height: 70px; 
+  width: 70px; 
+}
+.ourteam h4{
+  font-size: 1rem;
+}
+.ourteam h6{
+  font-size: 0.8rem;
+}
+.ourteam #wor{
+  padding: 3%;
+}
+
+/*---------------------------------------- vision section ---------------------------------------------*/
+.visionx .title11x{
+  font-size: 2.5rem;
+}
+.visionx .titlecap11x{
+  font-size: 1rem;
+}
+.cardx{
+  border-width: 3px;
+  height: 250px;
+}
+#imgx{
+  border-radius: 50%; 
+  height: 90px; 
+  width: 90px; 
+}
+.visionx h2{
+  font-size: 1.5rem;
+}
+.visionx h4{
+  font-size: 0.9rem;
+}
+
+/*---------------------------------------- aquainted section ---------------------------------------------*/
+.hero-section21 #title2x{
+  font-size: 2.5rem;
+}
+.hero-section21 #titlecap2x{
+  font-size: 1rem;
+}
+.herosection21 h5{
+  font-size: 1.5rem;
+}
+.hero-section21 #buttonsub2x{
+  width: 200px;
+  height: 30px;
+}
+
+/*---------------------------------------- hero section3 pages ---------------------------------------------*/
+.hero-section3 h5 {
+  font-size: 1.5rem;
+}
+.hero-section3 h1 {
+  font-size: 2.5rem;
+}
+
+/*---------------------------------------- details section ---------------------------------------------*/
+.details h2{
+  font-size: 2.5rem;
+}
+.details h4{
+  font-size: 1.5rem;
+
+}
+.details h5{
+  font-size: 1rem;
+}
+
+/*---------------------------------------- hero section4 pages ---------------------------------------------*/
+.hero-section4 h2 {
+  font-size: 1.5rem;
+}
+.hero-section4 h1 {
+  font-size: 2.5rem;
+}
+.hero-section4 #team2x{
+    height: 300px;
+    width: 200px;
+    border-radius: 25px;
+}
+
+/*---------------------------------------- doit section ---------------------------------------------*/
+.doit h4 {
+  font-size: 1rem;
+}
+.doit h1 {
+  font-size: 2.5rem;
+}
+
+/*---------------------------------------- engage section ---------------------------------------------*/
+.engage h1 {
+  font-size: 2.5rem;
+}
+.engage p {
+  font-size: 1rem;
+}
+.engage h3 {
+  font-size: 1.4rem;
+}
+.engage h5 {
+  font-size: 1.5rem;
+}
+.engage h4{
+  font-size: 1.4rem;
+}
+
+/*---------------------------------------- hero section5 pages ---------------------------------------------*/
+.hero-section5 h5 {
+  font-size: 1.5rem;
+}
+.hero-section5 h1 {
+  font-size: 3.5rem;
+}
+
+/*---------------------------------------- Testim section ---------------------------------------------*/
+.testim #lorem1{
+  font-size:7.5px;
+}
+.testim #user1{
+  font-size: 7.5px;
+}
+.testim #post1{
+  font-size: 7.5px;
+}
+#avatar888{
+  border-radius: 50%; 
+  height: 40px; 
+  width: 40px; 
+}
+
+/*---------------------------------------- hero section6 section ---------------------------------------------*/
+.hero-section6 h5 {
+  font-size: 1.5rem;
+}
+.hero-section6 h1 {
+  font-size: 2.5rem;
+}
+
+/*---------------------------------------- blog section ---------------------------------------------*/
+.blog {
+  height: 210vh;
+}
+#blogp{
+  border-radius: 25px; 
+  height: 95px; 
+  width: 95px; 
+}
+.blog #user1{
+  font-size: 1rem;
+}
+.blog #post1{
+  font-size: 1rem;
+}
+.blog h4{
+  font-size: 1rem;
+}
+.blog h2{
+  font-size: 2.1rem;
+  font-weight: 700;
+}
+.blog p{
+  font-size: 1rem;
+}
+
+/*---------------------------------------- recent post section ---------------------------------------------*/
+.recent_post {
+  height:190vh;
+}
+.recent_post h1{
+  font-size: 3.5rem;
+}
+.recent_post #blogp{
+  border-radius: 25px; 
+  height: 90px; 
+  width: 90px; 
+}
+.recent_post #lorem11{
+  font-size: 1.1rem;
+  font-weight:700;
+}
+
+/*---------------------------------------- hero section7 page ---------------------------------------------*/
+.hero-section7 h5 {
+  font-size: 1rem;
+}
+.hero-section7 h1 {
+  font-size: 2.5rem;
+}
+
+/*---------------------------------------- portfolio section ---------------------------------------------*/
+.portfolio1 .title4{
+  font-size: 2.5rem;
+}
+.portfolio1 .titlecap4{
+  font-size: 1rem;
+}
+.portfolio1 #avatar99{
+  height: 90px;
+  width: 90px;
+}
+.portfolio1 #ispum{
+  font-size:small;
+}
+
+
+/*---------------------------------------- pricing section ---------------------------------------------*/
+.pricing h1{
+  font-size: 2.5rem;
+}
+.pricing #titlecaption{
+  font-size: 1rem;
+}
+.pricing .box h3 {
+  padding: 15px;
+  font-size: 10px;
+}
+.pricing .box h4 {
+  font-size: 25px;
+}
+.pricing .box h4 sup {
+  font-size: 11px;
+}
+.pricing .box h4 span {
+  font-size: 6px;
+}
+.pricing .box ul {
+  font-size: 8px;
+}
+.pricing .box ul i {
+  font-size: 12px;
+}
+.pricing .box .btn-buy {
+  font-size: 6px;
+}
+}

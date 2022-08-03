@@ -1,0 +1,1399 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway&family=Titillium+Web:ital,wght@0,200;0,300;0,400;0,600;0,700;0,900;1,200;1,300;1,400;1,600;1,700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Marck+Script&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Permanent+Marker&display=swap');
+
+
+
+::-webkit-scrollbar{
+  display:none;
+}
+
+
+
+
+/*---------------------------------------- home page ---------------------------------------------*/
+/*---------------------------------------- hero1 section ---------------------------------------------*/
+.hero-section1 {
+    height: 100vh;
+    display: flex;
+    align-items:center;
+    justify-content: center;
+    flex-direction:row;
+    background-image: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.9)), url(/src/assets/images/image24.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size:cover;
+    position: relative;
+  }
+  .hero-section1 h1 {
+    font-size: 5rem;
+    text-transform: uppercase;
+    text-align: center;
+    color:white;
+    text-align: center;
+    font-family: 'Titillium Web', sans-serif;
+  }
+  .hero-section1 #hey{
+    color: darkorange;
+  }
+  .herosection1 .entry99{
+    font-size: 2rem;
+    color: white;
+    font-family: 'Titillium Web', sans-serif;
+  }
+  .hero-section1 #buttonsub2{
+    width: 200px;
+    height: 40px;
+  }
+
+
+
+   /*---------------------------------------- services section ---------------------------------------------*/
+  .services {
+    height: 100vh;
+    display: flex;
+    align-items:center;
+    flex-direction: row;
+    position: relative;
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.9)), url(/src/assets/images/image1006.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size:cover;
+  }
+  .title1{
+    font-size: 5rem;
+    text-transform: uppercase;
+    text-align: center;
+    color:white;
+    font-family: 'Titillium Web', sans-serif;
+  }
+  .services .titlecap{
+    text-align: center;
+    color:gray;
+    font-size: 2rem;
+    font-family: 'Titillium Web', sans-serif;
+  }
+  .services h6{
+    color: black;
+    text-align: center;
+    font-family: 'Titillium Web', sans-serif;
+  }
+  .services h5{
+    color: gold;
+    text-align: center;
+    font-size: large;
+    font-family: 'Titillium Web', sans-serif;
+  }
+  .services p{
+    color: white;
+    text-align: center;
+    font-size: small;
+    font-family: 'Titillium Web', sans-serif;
+  }
+  #img1{
+    border-radius: 50%; 
+    height: 90px; 
+    width: 90px; 
+    display: flex;
+    align-items: center; 
+    justify-content: center;
+  }
+  .cardser{
+    background-color:rgba(128, 128, 128, 0.5); 
+    border-color: #F9F9F9;
+    border-radius: 25px;
+    border-width: 3px;
+    height: 300px;
+    padding-top: 10%;
+  }
+  .cardser:hover{
+    box-shadow: 8px 8px 12px 12px rgba(128,128,128,0.2);
+    transition: 0.5s;
+  }
+
+  
+
+   /*---------------------------------------- team section ---------------------------------------------*/
+  .team {
+    height: 100vh;
+    display: flex;
+    align-items:center;
+    flex-direction: row;
+    position: relative;
+    background-image: linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.9)), url(/src/assets/images/image236.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size:cover;
+  }
+  .title2{
+    font-size: 5rem;
+    text-transform: uppercase;
+    text-align: center;
+    color:white;
+    font-family: 'Titillium Web', sans-serif;
+  }
+  .team .titlecap2{
+    text-align: center;
+    color:gray;
+    font-size: 2rem;
+    font-family: 'Titillium Web', sans-serif;
+  }
+  #avatar{
+    border-radius: 50%; 
+    height: 90px; 
+    width: 90px; 
+    display: flex;
+    align-items: center; 
+    justify-content: center;
+  }
+  .card1{
+    background-color:transparent;
+    border-color:white;
+    border-width: 3px;
+    border-style:solid;
+    border-radius: 25px;
+    height: 300px;
+    padding-top: 15%;
+  }
+  .card1:hover{
+    border-color:darkorange;
+    transition: 0.5s;
+  }
+  .team h4{
+    color: gold;
+    text-align: center;
+    font-size: large;
+    font-family: 'Titillium Web', sans-serif;
+  }
+  .team h6{
+    color: khaki;
+    text-align: center;
+    font-size: small;
+    font-family: 'Titillium Web', sans-serif;
+  }
+  .team p{
+    color: white;
+    text-align: center;
+    font-size: small;
+    font-family: 'Titillium Web', sans-serif;
+  }
+  .team .soicon{
+    color: khaki;
+    font-size: medium;
+    display: flex;
+    justify-content:space-around;
+  }
+
+
+   /*---------------------------------------- skills section ---------------------------------------------*/
+  .skills {
+    height: 100vh;
+    display: flex;
+    align-items:center;
+    flex-direction: row;
+    position: relative;
+    background-image: linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.9)), url(/src/assets/images/image999.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size:cover;
+  }
+  .title3{
+    font-size: 5rem;
+    text-transform: uppercase;
+    text-align: center;
+    color:white;
+    font-family: 'Titillium Web', sans-serif;
+  }
+  .skills .titlecap3{
+    text-align: center;
+    color: gray;
+    font-size: 2rem;
+    font-family: 'Titillium Web', sans-serif;
+  }
+  #avatar1{
+    border-radius: 50%; 
+    height: 150px; 
+    width: 150px; 
+    display: flex;
+    align-items: center; 
+    justify-content: center;
+  }
+  .card2{
+    background-color:transparent; 
+    border-color: #F9F9F9;
+    border-radius: 25px;
+    height: 300px;
+    padding-top: 20%;
+  }
+  .skills #value{
+    color:khaki;
+    text-align: center;
+    font-size:larger;
+    font-family: 'Titillium Web', sans-serif;
+  }
+ 
+
+
+   /*---------------------------------------- portfolio section ---------------------------------------------*/
+  .portfolio {
+    height: 100vh;
+    display: flex;
+    align-items:center;
+    flex-direction: row;
+    position: relative;
+    background-image: linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.9)), url(/src/assets/images/img999.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size:cover;
+  }
+  .title4{
+    font-size: 5rem;
+    text-transform: uppercase;
+    text-align: center;
+    color:white;
+    font-family: 'Titillium Web', sans-serif;
+  }
+  .portfolio .titlecap4{
+    text-align: center;
+    color: gray;
+    font-size: 2rem;
+    font-family: 'Titillium Web', sans-serif;
+  }
+  #avatar99{
+    height: 210px;
+    width: 210px;
+    display: flex;
+    align-items: center; 
+    justify-content: center;
+  }
+  .portfolio #ispum{
+    color:orange;
+    text-align: center;
+    font-size:larger;
+    font-family: 'Titillium Web', sans-serif;
+  }
+  .nav-tabs .nav-link {
+    margin-bottom: -1px;
+    background-color: teal;
+    border-top-left-radius: 0.25rem;
+    border-top-right-radius: 0.25rem;
+    color: orange;
+  }
+  .nav-tabs .nav-link.active {
+    color: black !important;
+    font-weight: 400 !important;
+    background-color: gray !important;
+    border-color: gray gray gray !important;
+}
+  .portfolio .entry1{
+    font-size: 2rem;
+    color: white;
+    font-family: 'Titillium Web', sans-serif;
+    text-align: center;
+  }
+  .portfolio #buttonsub1{
+    width: 200px;
+    height: 40px;
+  }
+  .portfolio #buttonsub1:hover{
+    background-color: darkblue;
+    border-radius: 25px;
+    transition: 0.5s;
+  }
+
+
+
+ /*---------------------------------------- testimonals section ---------------------------------------------*/
+  .testimonals {
+    height: 100vh;
+    display: flex;
+    align-items:center;
+    flex-direction: row;
+    position: relative;
+    background-image: linear-gradient(rgba(0, 0, 0, 0.9), rgba(0, 0, 0, 0.9)), url(/src/assets/images/image6678.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size:cover;
+  }
+  .title5{
+    font-size: 5rem;
+    text-transform: uppercase;
+    text-align: center;
+    color:white;
+    font-family: 'Titillium Web', sans-serif;
+  }
+  .testimonals .titlecap5{
+    text-align: center;
+    color: gray;
+    font-size: 2rem;
+    font-family: 'Titillium Web', sans-serif;
+  }
+  .testimonals #lorem{
+    text-align:left;
+    font-style: italic;
+    color:white;
+    font-size: 1.5rem;
+    font-family: 'Titillium Web', sans-serif;
+  }
+  .testimonals #user{
+    text-align:left;
+    color:gold;
+    font-size: 1.5rem;
+    font-family: 'Titillium Web', sans-serif;
+  }
+  .testimonals #post{
+    text-align:left;
+    color:khaki;
+    font-size: 1.2rem;
+    font-family: 'Titillium Web', sans-serif;
+  }
+  #avatar88{
+    border-radius: 50%; 
+    height: 90px; 
+    width: 90px; 
+    display: flex;
+    align-items: center; 
+    justify-content: center;
+  }
+  #avatar88:hover
+{
+  opacity: 0.3;
+  filter: alpha(opacity=30);
+}
+
+
+
+/*---------------------------------------- subscribe section ---------------------------------------------*/
+  .subscribe {
+    height: 100vh;
+    display: flex;
+    align-items:center;
+    flex-direction: row;
+    position: relative;
+    background-image: linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.9)), url(/src/assets/images/image13350.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size:cover;
+  }
+  .title6{
+    font-size: 5rem;
+    text-transform: uppercase;
+    text-align: center;
+    color:white;
+    font-family: 'Titillium Web', sans-serif;
+  }
+  .subscribe .titlecap6{
+    text-align: center;
+    color: lightgray;
+    font-size: 2rem;
+    font-family: 'Titillium Web', sans-serif;
+  }
+  .subscribe #buttonsub{
+    width: 300px;
+    height: 50px;
+  }
+  .subscribe #entry{
+    font-size: 2rem;
+    color: darkkhaki;
+    font-family: 'Titillium Web', sans-serif;
+  }
+/*---------------------------------------- home page over ---------------------------------------------*/
+
+
+
+
+/*---------------------------------------- about page start ---------------------------------------------*/
+/*---------------------------------------- hero section2 ---------------------------------------------*/
+.hero-section2{
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  background-color:olivedrab;
+  position: relative;
+  background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.9)), url(/src/assets/images/image1006.png);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size:cover;
+}
+.hero-section2 h5 {
+  text-transform: capitalize;
+  color: orange;
+  font-family: 'Titillium Web', sans-serif;
+  font-size: 2.5rem;
+  text-align: center;
+}
+.hero-section2 h1 {
+  font-size: 5rem;
+  text-transform: uppercase;
+  text-align: center;
+  color: white;
+  font-family: 'Titillium Web', sans-serif;
+}
+
+
+
+/*---------------------------------------- information section ---------------------------------------------*/
+.info{
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  background-color:olivedrab;
+  position: relative;
+  background-image: linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.9)), url(/src/assets/images/image999.jpg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size:cover;
+}
+.info h4{
+  color: khaki;
+  font-family: 'Marck Script';
+  font-size: 4rem;
+  text-align: center;
+  text-transform: capitalize;
+}
+.info h4:hover{
+  color: gold;
+}
+
+
+
+
+/*---------------------------------------- story section ---------------------------------------------*/
+.story{
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  background-color:olivedrab;
+  position: relative;
+  background-image: linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.9)), url(/src/assets/images/back.jpg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size:cover;
+}
+.story .titlex{
+  font-size: 5rem;
+  text-transform: uppercase;
+  text-align: center;
+  color:white;
+  font-family: 'Titillium Web', sans-serif;
+}
+.story .titlecapx{
+  text-align: center;
+  color: gray;
+  font-size: 2rem;
+  font-family: 'Titillium Web', sans-serif;
+}
+.accordion-body {
+  padding: 1rem 1.25rem;
+  background-color: #292929;
+}
+.story #acc-head{
+  text-align: justify;
+  font-size: 2.5rem;
+  font-family: 'Titillium Web', sans-serif;
+  color: #1a1919;
+  font-weight:650;
+}
+.accordion-body #acc-text{
+  text-align: justify;
+  font-size: 2rem;
+  font-family: 'Lobster';
+  color: lightgray;
+}
+.accordion-body #ahead{
+  font-family: 'Lobster';
+  color:lightgray;
+  font-weight: 400;
+}
+.accordion-body li {
+  list-style: auto;
+}
+
+
+
+
+/*---------------------------------------- Our team section ---------------------------------------------*/
+.ourteam{
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  background-color:olivedrab;
+  position: relative;
+  background-image: linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.9)), url(/src/assets/images/image13350.png);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size:cover;
+}
+.title1x{
+  font-size: 5rem;
+  text-transform: uppercase;
+  text-align: center;
+  color:white;
+  font-family: 'Titillium Web', sans-serif;
+}
+.ourteam .titlecap1x{
+  text-align: center;
+  color: gray;
+  font-size: 2rem;
+  font-family: 'Titillium Web', sans-serif;
+}
+.ourteam #teamx{
+  height: 475px;
+  width: 375px;
+  border-radius: 25px;
+}
+.ourteam #avatarxx{
+  border-radius: 50%; 
+  height: 100px; 
+  width: 100px; 
+  display: flex;
+  align-items: center; 
+  justify-content: center;
+}
+.ourteam #avatarxx:hover{
+  opacity: 0.3;
+  filter: alpha(opacity=30);
+}
+.ourteam h4{
+  text-align: center;
+  font-size: 2rem;
+  font-family: 'Titillium Web', sans-serif;
+  color: gold;
+}
+.ourteam h6{
+  text-align: center;
+  font-size: 1.5rem;
+  font-family: 'Titillium Web', sans-serif;
+  color: khaki;
+}
+.ourteam #wor{
+  padding: 3%;
+}
+
+
+
+
+/*---------------------------------------- vision section ---------------------------------------------*/
+.visionx{
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  background-color:olivedrab;
+  position: relative;
+  background-image: linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.9)), url(/src/assets/images/image388.png);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size:cover;
+}
+.visionx .title11x{
+  font-size: 5rem;
+  text-transform: uppercase;
+  text-align: center;
+  color:white;
+  font-family: 'Titillium Web', sans-serif;
+}
+.visionx .titlecap11x{
+  text-align: center;
+  color:gray;
+  font-size: 2rem;
+  font-family: 'Titillium Web', sans-serif;
+}
+.cardx{
+  background-color:rgba(128, 128, 128, 0.5); 
+  border-color: #F9F9F9;
+  border-radius: 25px;
+  border-width: 3px;
+  height: 300px;
+}
+.cardx:hover{
+  box-shadow: 8px 8px 12px 12px rgba(128,128,128,0.2);
+  transition: 0.5s;
+}
+#imgx{
+  border-radius: 50%; 
+  height: 150px; 
+  width: 150px; 
+  display: flex;
+  align-items: center; 
+  justify-content: center;
+}
+.visionx h2{
+  text-align: center;
+  font-size: 2.5rem;
+  font-family: 'Titillium Web', sans-serif;
+  color: black;
+}
+.visionx h4{
+  text-align: center;
+  font-size: 1.7rem;
+  font-family: 'Titillium Web', sans-serif;
+  color: black;
+}
+
+
+
+
+
+/*---------------------------------------- aquainted section ---------------------------------------------*/
+.hero-section21{
+  height: 100vh;
+  display: flex;
+  align-items:center;
+  justify-content: center;
+  flex-direction:row;
+  background-image: linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.9)), url(/src/assets/images/image24.png);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size:cover;
+  position: relative;
+}
+.hero-section21 #title2x{
+  font-size: 5rem;
+  text-transform: uppercase;
+  text-align: center;
+  color:white;
+  text-align: center;
+  font-family: 'Titillium Web', sans-serif;
+}
+.hero-section21 #titlecap2x{
+  text-align: center;
+  color:gray;
+  font-size: 2.5rem;
+  text-align: center;
+  font-family: 'Titillium Web', sans-serif;
+}
+.herosection21 h5{
+  font-size: 2rem;
+  color: white;
+  font-family: 'Titillium Web', sans-serif;
+}
+.hero-section21 #buttonsub2x{
+  width: 200px;
+  height: 40px;
+  background-color:darkorange;
+}
+/*---------------------------------------- about page over ---------------------------------------------*/
+
+
+
+
+/*---------------------------------------- contact us pages start ---------------------------------------------*/
+/*---------------------------------------- hero section3 pages ---------------------------------------------*/
+.hero-section3 {
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  background-color:olivedrab;
+  position: relative;
+  background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.9)), url(/src/assets/images/back.jpg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size:cover;
+}
+.hero-section3 h5 {
+  text-transform: capitalize;
+  color: orange;
+  font-family: 'Titillium Web', sans-serif;
+  font-size: 2.5rem;
+  text-align: center;
+}
+.hero-section3 h1 {
+  font-size: 5rem;
+  text-transform: uppercase;
+  text-align: center;
+  color: white;
+  font-family: 'Titillium Web', sans-serif;
+}
+
+
+
+
+/*---------------------------------------- details section ---------------------------------------------*/
+.details {
+  height: 100vh;
+  display: flex;
+  align-items:center;
+  flex-direction: row;
+  position: relative;
+  background-image: linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.9)), url(/src/assets/images/image999.jpg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size:cover;
+}
+.details h2{
+  text-transform: capitalize;
+  color: gold;
+  font-family: 'Titillium Web', sans-serif;
+  font-size: 4.5rem;
+  text-align: center;
+}
+.details h4{
+  text-transform: capitalize;
+  color: lightgray;
+  font-family: 'Titillium Web', sans-serif;
+  font-size: 2.5rem;
+  text-align:center;
+}
+.details #sales{
+  color:orange;
+}
+.details h5{
+  text-transform: capitalize;
+  color: khaki;
+  font-family: 'Titillium Web', sans-serif;
+  font-size: 1.9rem;
+  text-align:center;
+}
+/*----------------------------------------- contact us pages over---------------------------------------------*/
+
+
+
+
+/*---------------------------------------- solution pages start ---------------------------------------------*/
+/*---------------------------------------- hero section4 pages ---------------------------------------------*/
+.hero-section4 {
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  background-color:olivedrab;
+  position: relative;
+  background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.9)), url(/src/assets/images/image236.png);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size:cover;
+}
+.hero-section4 h2 {
+  text-transform: capitalize;
+  color: khaki;
+  font-family: 'Titillium Web', sans-serif;
+  font-size: 3rem;
+  text-align: left;
+}
+.hero-section4 h1 {
+  font-size: 5rem;
+  text-transform: uppercase;
+  text-align: center;
+  color: white;
+  font-family: 'Titillium Web', sans-serif;
+}
+.hero-section4 #team2x{
+    height: 475px;
+    width: 375px;
+    border-radius: 25px;
+}
+
+
+
+
+
+/*---------------------------------------- doit section ---------------------------------------------*/
+.doit {
+  height: 100vh;
+  display: flex;
+  align-items:center;
+  flex-direction: row;
+  position: relative;
+  background-image: linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.9)), url(/src/assets/images/image999.jpg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size:cover;
+}
+.doit h4 {
+  text-transform: capitalize;
+  color: khaki;
+  font-family: 'Titillium Web', sans-serif;
+  font-size: 2rem;
+  text-align: justify;
+}
+.doit h4:hover{
+  color: orange;
+}
+.doit h1 {
+  font-size: 5rem;
+  text-transform: uppercase;
+  text-align: center;
+  color: white;
+  font-family: 'Titillium Web', sans-serif;
+}
+
+
+
+
+/*---------------------------------------- engage section ---------------------------------------------*/
+.engage {
+  height: 100vh;
+  display: flex;
+  align-items:center;
+  flex-direction: row;
+  position: relative;
+  background-image: linear-gradient(rgba(0, 0, 0, 0.9), rgba(0, 0, 0, 0.9)), url(/src/assets/images/image388.png);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size:cover;
+}
+.engage h1 {
+  font-size: 5rem;
+  text-transform: uppercase;
+  text-align: center;
+  color: white;
+  font-family: 'Titillium Web', sans-serif;
+}
+.engage p {
+  font-size: 2rem;
+  text-align: left;
+  color: lightcyan;
+  font-family: 'Titillium Web', sans-serif;
+}
+.engage h3 {
+  font-size: 3rem;
+  text-transform: uppercase;
+  text-align: center;
+  color: khaki;
+  font-family: 'Titillium Web', sans-serif;
+}
+.engage h5 {
+  font-size: 2.5rem;
+  text-transform: uppercase;
+  text-align: left;
+  color: lightgray;
+  font-family: 'Titillium Web', sans-serif;
+}
+.engage h4{
+  font-size: 2.5rem;
+  text-transform: uppercase;
+  text-align: center;
+  color: gray;
+  font-family: 'Titillium Web', sans-serif;
+}
+/*---------------------------------------- solution pages over ---------------------------------------------*/
+
+
+
+
+/*---------------------------------------- testimonals main pages start ---------------------------------------------*/
+/*---------------------------------------- hero section5 pages ---------------------------------------------*/
+.hero-section5 {
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  background-color:olivedrab;
+  position: relative;
+  background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.9)), url(/src/assets/images/image13350.png);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size:cover;
+}
+.hero-section5 h5 {
+  text-transform: capitalize;
+  color: orange;
+  font-family: 'Titillium Web', sans-serif;
+  font-size: 2.5rem;
+  font-weight: none;
+  text-align: center;
+}
+.hero-section5 h1 {
+  font-size: 5rem;
+  text-transform: uppercase;
+  text-align: center;
+  color: white;
+  font-family: 'Titillium Web', sans-serif;
+}
+
+/*---------------------------------------- testim section ---------------------------------------------*/
+.testim {
+  height: 100vh;
+  display: flex;
+  align-items:center;
+  flex-direction: row;
+  position: relative;
+  background-image: linear-gradient(rgba(0, 0, 0, 0.9), rgba(0, 0, 0, 0.9)), url(/src/assets/images/image6678.jpg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size:cover;
+}
+.testim #lorem1{
+  text-align:left;
+  font-style: italic;
+  color:white;
+  font-size: 1.5rem;
+  font-family: 'Titillium Web', sans-serif;
+}
+.testim #user1{
+  text-align:left;
+  color:gold;
+  font-size: 1.5rem;
+  font-family: 'Titillium Web', sans-serif;
+}
+.testim #post1{
+  text-align:left;
+  color:khaki;
+  font-size: 1.2rem;
+  font-family: 'Titillium Web', sans-serif;
+}
+#avatar888{
+  border-radius: 50%; 
+  height: 90px; 
+  width: 90px; 
+  display: flex;
+  align-items: center; 
+  justify-content: center;
+}
+#avatar888:hover
+{
+  opacity: 0.3;
+  filter: alpha(opacity=30);
+}
+/*---------------------------------------- testimonals main pages over ---------------------------------------------*/
+
+
+
+
+
+/*---------------------------------------- blog pages start ---------------------------------------------*/
+/*---------------------------------------- hero section6 pages ---------------------------------------------*/
+.hero-section6 {
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  background-color:olivedrab;
+  position: relative;
+  background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.9)), url(/src/assets/images/back.jpg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size:cover;
+}
+.hero-section6 h5 {
+  text-transform: capitalize;
+  color: orange;
+  font-family: 'Titillium Web', sans-serif;
+  font-size: 2.5rem;
+  text-align: center;
+}
+.hero-section6 h1 {
+  font-size: 5rem;
+  text-transform: uppercase;
+  text-align: center;
+  color: white;
+  font-family: 'Titillium Web', sans-serif;
+}
+
+
+
+
+/*---------------------------------------- blog section ---------------------------------------------*/
+.blog {
+  height: 210vh;
+  display: flex;
+  align-items:center;
+  flex-direction: row;
+  position: relative;
+  background-image: linear-gradient(rgba(0, 0, 0, 0.9), rgba(0, 0, 0, 0.9)), url(/src/assets/images/image388.png);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size:cover;
+}
+#blogp{
+  border-radius: 25px; 
+  height: 200px; 
+  width: 300px; 
+  display: flex;
+  align-items: center; 
+  justify-content: center;
+}
+#blogp:hover{
+  opacity: 0.3;
+  filter: alpha(opacity=30);
+}
+.blog #user1{
+  text-align:left;
+  color:gold;
+  font-size: 1.5rem;
+  font-family: 'Titillium Web', sans-serif;
+}
+.blog #post1{
+  text-align:left;
+  color:khaki;
+  font-size: 1.2rem;
+  font-family: 'Titillium Web', sans-serif;
+}
+.blog h4{
+  text-align:justify;
+  color:lightgray;
+  font-size: 2.4rem;
+  font-family: 'Titillium Web', sans-serif;
+}
+.blog h2{
+  text-align:left;
+  color:lightgray;
+  font-size: 3rem;
+  font-weight: 700;
+  font-family: 'Titillium Web', sans-serif;
+}
+.blog p{
+  text-align:left;
+  color:khaki;
+  font-size: 1.2rem;
+  font-family: 'Titillium Web', sans-serif;
+}
+.blog #row1{
+  background-color:transparent;
+  border-color:white;
+  border-width: 3px;
+  border-style:solid;
+  border-radius: 25px;
+  padding: 2%;
+}
+.blog #row1:hover{
+  border-color: orange;
+  transition: 0.5s;
+}
+.blog #entryx
+
+
+
+
+/*---------------------------------------- recent post section ---------------------------------------------*/
+.recent_post {
+  height:150vh;
+  display: flex;
+  align-items:center;
+  flex-direction: row;
+  position: relative;
+  background-image: linear-gradient(rgba(0, 0, 0, 0.9), rgba(0, 0, 0, 0.9)), url(/src/assets/images/image236.png);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size:cover;
+}
+.recent_post h1{
+  text-align:center;
+  text-transform: uppercase;
+  color:lightgray;
+  font-size: 5rem;
+  font-family: 'Titillium Web', sans-serif;
+}
+.recent_post #blogp{
+  border-radius: 25px; 
+  height: 90px; 
+  width: 90px; 
+  display: flex;
+  align-items: center; 
+  justify-content: center;
+}
+.recent_post #blogp:hover{
+  opacity: 0.3;
+  filter: alpha(opacity=30);
+}
+.recent_post #lorem11{
+  text-align:justify;
+  color: gray;
+  font-size: 1.4rem;
+  font-weight:700;
+  font-family: 'Titillium Web', sans-serif;
+}
+.recent_post #row2{
+  background-color:rgba(43, 43, 43, 0.5);
+  border-color: rgba(43, 43, 43, 0.5);;
+  border-width: 3px;
+  border-style:solid;
+  border-radius: 25px;
+  padding: 1%;
+}
+.recent_post #row2:hover{
+  border-color: orange;
+  box-shadow: 8px 8px 12px 12px rgba(128,128,128,0.3);
+  transition: 0.5s;
+}
+
+
+
+/*---------------------------------------- portfolio page ---------------------------------------------*/
+/*---------------------------------------- hero section7 page ---------------------------------------------*/
+.hero-section7 {
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  background-color:olivedrab;
+  position: relative;
+  background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.9)), url(/src/assets/images/back.jpg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size:cover;
+}
+.hero-section7 h5 {
+  text-transform: capitalize;
+  color: orange;
+  font-family: 'Titillium Web', sans-serif;
+  font-size: 2.5rem;
+  text-align: center;
+}
+.hero-section7 h1 {
+  font-size: 5rem;
+  text-transform: uppercase;
+  text-align: center;
+  color: white;
+  font-family: 'Titillium Web', sans-serif;
+}
+
+
+
+
+/*---------------------------------------- portfolio section ---------------------------------------------*/
+ .portfolio1 {
+  height: 150vh;
+  display: flex;
+  align-items:center;
+  flex-direction: row;
+  position: relative;
+  background-image: linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.9)), url(/src/assets/images/img999.jpg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size:cover;
+}
+.portfolio1 .title4{
+  font-size: 5rem;
+  text-transform: uppercase;
+  text-align: center;
+  color:white;
+  font-family: 'Titillium Web', sans-serif;
+}
+.portfolio1 .titlecap4{
+  text-align: center;
+  color: gray;
+  font-size: 2rem;
+  font-family: 'Titillium Web', sans-serif;
+}
+.portfolio1 #avatar99{
+  height: 210px;
+  width: 210px;
+  display: flex;
+  align-items: center; 
+  justify-content: center;
+}
+.portfolio1 #ispum{
+  color:orange;
+  text-align: center;
+  font-size:larger;
+  font-family: 'Titillium Web', sans-serif;
+}
+.nav-tabs .nav-link {
+  margin-bottom: -1px;
+  background-color: teal;
+  border-top-left-radius: 0.25rem;
+  border-top-right-radius: 0.25rem;
+  color: orange;
+}
+.nav-tabs .nav-link.active {
+  color: black !important;
+  font-weight: 400 !important;
+  background-color: gray !important;
+  border-color: gray gray gray !important;
+}
+.portfolio1 .entry1{
+  font-size: 2rem;
+  color: white;
+  font-family: 'Titillium Web', sans-serif;
+}
+
+
+
+
+/*---------------------------------------- pricing section ---------------------------------------------*/
+.pricing {
+  height:100vh;
+  display: flex;
+  align-items:center;
+  flex-direction: row;
+  position: relative;
+  background-image: linear-gradient(rgba(0, 0, 0, 0.9), rgba(0, 0, 0, 0.9)), url(/src/assets/images/image6678.jpg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size:cover;
+}
+.pricing h1{
+  text-align:center;
+  text-transform: uppercase;
+  color:white;
+  font-size: 5rem;
+  font-family: 'Titillium Web', sans-serif;
+}
+.pricing #titlecaption{
+  text-align:center;
+  text-transform: uppercase;
+  color: gray;
+  font-size: 2.5rem;
+  font-family: 'Titillium Web', sans-serif;
+}
+.pricing .box {
+  padding: 20px;
+  background: #2b2b2b;
+  text-align: center;
+  border-radius: 8px;
+  position: relative;
+  overflow: hidden;
+}
+.pricing .box:hover{
+  box-shadow: 8px 8px 12px 12px rgba(128,128,128,0.6);
+  border-radius: 25px;
+  transition: 0.5s;
+}
+.pricing .box h3 {
+  font-weight: 400;
+  padding: 15px;
+  font-size: 18px;
+  text-transform: uppercase;
+  font-weight: 600;
+  color:lightyellow;
+  text-align: center;
+}
+.pricing .box h4 {
+  font-size: 42px;
+  font-weight: 500;
+  font-family: "Open Sans", sans-serif;
+  margin-bottom: 20px;
+  color: white;
+  text-align: center;
+}
+.pricing .box h4 sup {
+  font-size: 20px;
+  top: -15px;
+  left: -3px;
+}
+.pricing .box h4 span {
+  font-size: 16px;
+  font-weight: 300;
+  color: white;
+  text-align: center;
+}
+.pricing .box ul {
+  padding: 0;
+  list-style: none;
+  text-align: center;
+  line-height: 20px;
+  font-size: 14px;
+  text-align: center;
+}
+.pricing .box ul li {
+  padding-bottom: 16px;
+  color: white;
+}
+.pricing .box ul i {
+  color: #e03a3c;
+  font-size: 18px;
+  padding-right: 4px;
+  text-align: center;
+}
+.pricing .box ul .na {
+  color: rgba(255, 255, 255, 1);
+  text-decoration: line-through;
+}
+.pricing .box .btn-wrap {
+  padding: 15px;
+  text-align: center;
+}
+.pricing .box .btn-buy {
+  display: inline-block;
+  padding: 10px 40px 12px 40px;
+  border-radius: 4px;
+  color: #fff;
+  transition: none;
+  font-size: 14px;
+  font-weight: 400;
+  font-family: "Raleway", sans-serif;
+  font-weight: 600;
+  transition: 0.3s;
+  border: 2px solid rgba(255, 255, 255, 0.3);
+}
+.pricing .box .btn-buy:hover {
+  border-color: khaki;
+  border-radius: 25px;
+  background-color: rgba(128, 128, 128, 0.5);
+  transition: 0.5s;
+}
+.pricing .featured {
+  background: #e03a3c;
+}
+.pricing a {
+  text-decoration: none !important;
+}
+
+
+
+
+
+
+/*---------------------------------------- other pages ---------------------------------------------*/
+.hero-section {
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    background-color:olivedrab;
+    position: relative;
+    background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.9)), url(/src/assets/images/back.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size:cover;
+  }
+  .hero-section h5 {
+    text-transform: capitalize;
+    color: orange;
+    font-family: 'Titillium Web', sans-serif;
+    font-size: 2.5rem;
+    text-align: center;
+  }
+  .hero-section h1 {
+    font-size: 5rem;
+    text-transform: uppercase;
+    text-align: center;
+    color: white;
+    font-family: 'Titillium Web', sans-serif;
+  }
